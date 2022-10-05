@@ -6,7 +6,11 @@ This repository contains the material for the SAP TechEd 2022 session called Ses
 
 ## Overview
 
-This session introduces attendees to...
+In this session,you will learn how to use the SAP Build Process Automation to modify a pre-built bot i.e.,Create Purchase Requisitions from Excel (48M). 
+
+The pre-built bot is designed to simplify the creation of purchase requisitions. The user can give the purchase requisition details as an input to the bot by compiling them into one template excel file. The bot reads those details and creates purchase requisitions and sends the report email to the recipients. 
+
+To showcase the Workflow, Form and Conditional capabilities of SAP Process Automation, we will extend the pre-built bot to start from a user form to input the basic purchase requisition details e.g. PR Number, Amount etc. Based on the Amount entered in the form the bot will go through an approval process before the bot is triggered. For Purchase Requisitions of higher amount, we will seek a manager’sapproval to trigger the bot.
 
 ## Requirements
 
