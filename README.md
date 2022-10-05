@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called DT262 - Execute Bots Rapidly in SAP S/4HANA Cloud with SAP Build Process Automation.  
 
 ## Overview
 
