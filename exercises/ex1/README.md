@@ -12,14 +12,20 @@ During this exercise, the following extensions will be made to the  pre-delivere
 
 After completing these steps you will have created...
 
-1. Click here.
+1. Login to the SAP Build Process Automation Tenant using below url and Navigate to <b>Store</b>
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
-2.	Insert this line of code.
+2. Filter by Project Type <b>Process Automation</b> in the checkbox on left menu and search for keyword <b>Purchase Requisition</b>
 ```abap
 response->set_text( |Hello World! | ). 
 ```
+3. Once the Project Name <b>Create Purchase Requisitions from Excel (48M)</b>is found, click on the arrow next to Open Button and select <b>Create from Template</b>.
 
+4. Give the Name of the Project.E.g.,“Create Purchase Requisitions”+ <your participant number>
+
+5. Next, choose <b>Create </b>
+
+6. To see the newly created project,navigate back to <b>Lobby</b> from top menu. You should find the newly created project here.
 
 
 ## Exercise 1.2 Sub Exercise 2 Description
