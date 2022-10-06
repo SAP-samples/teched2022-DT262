@@ -78,6 +78,28 @@ After completing these steps you will have...
   
  13. Click on <b>Save</b>. <b>The Process Trigger form is ready !!</b>
   
+ 14. Return to the Automation tab.
+  
+ 15. Click <b>+</b>icon next to Input Form and select <b>Controls -> Condition</b>
+  
+ 16. On the details panel for Condition, click on <b>Open Condition Editor</b>
+  
+ 17. In the Branch condition you will need to Provide the Item to be compared, the operator and value to be compared.Click on Each text box to select the following value:
+  - Select Item:PR Amount
+  - Operator:is less than or equal
+  - Value:100
+  
+ 18. The branch condition should look like this.
+  
+ 19. Click <B>Save</b>
+  
+ 20. The Condition has two branches <b>If</b> (when condition is true) and <b>Default</b>(when condition is false). 
+  
+ 21. Click the <B>+</b> icon on the If branch to insert an Automation <B>Automations-> Create Purchase Requisitions From Excel</b> 
+  <i>This will insert the Automation that will be executed when the value of PR Amount is less than 100</i>
+  
+ 22. The Create Purchase Requisitions From Excel Automation will be inserted into the Process flow.
+  
 
 
 ## Summary
