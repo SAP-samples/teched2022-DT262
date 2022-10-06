@@ -40,24 +40,26 @@ response->set_text( |Hello World! | ).
 12. Enter values unique to your project ID, as defined in the second last step of the previous Registration document:E.g. spaworkshop_"your participant ID"
 
 
-## Exercise 1.2 Sub Exercise 2 Description
+## Exercise 1.2 Create Business Process
 
 After completing these steps you will have...
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+1.	When you open a project, you are taken to the project Overview tab.The list of all include artifacts is displayed.
 
-```
-
-2.	Click here.
+2.	In the Overview tab, click on + icon -> <b>Create</b> 
+  
+3. To create a new business process,click <b>Process</b> button.
 <br>![](/exercises/ex1/images/01_02_0010.png)
+  
+4. In the pop-up, do the following:
+  - Enter theNamefield. E.g. “MyWorkflow”
+  - Enter a description(optional)
+  - Choose Create
+  
+5. Click <b>Select a Start Trigger</b>
+  
+6. On the available Forms dropdown, choose <b>New Form</b> in the Forms field
+  
 
 
 ## Summary
