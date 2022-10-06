@@ -26,6 +26,18 @@ response->set_text( |Hello World! | ).
 5. Next, choose <b>Create </b>
 
 6. To see the newly created project,navigate back to <b>Lobby</b> from top menu. You should find the newly created project here.
+  
+7. Click on the project name to open it.
+  
+8. Click <B>Settings </b> as indicated by the gear icon.
+  
+9. You will need to set the <b>Project Attributes</b>, for your project, to ensure that the deployed project will run against the right agent with the right specified attributes.
+  
+10. On the next screen, click on <B>Attributes</b>.
+  
+11. Select Attributes: <b>User</b>
+  
+12. Enter values unique to your project ID, as defined in the second last step of the previous Registration document:E.g. spaworkshop_"your participant ID"
 
 
 ## Exercise 1.2 Sub Exercise 2 Description
