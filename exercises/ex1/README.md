@@ -60,6 +60,24 @@ After completing these steps you will have...
   
 6. On the available Forms dropdown, choose <b>New Form</b> in the Forms field
   
+7. In the pop-up for new form, do the following
+  - Enter the Name as <b>InputForm:PR_Details</b>
+  - Enter a Description(optional)
+  - Click <b>Create</b>
+  
+ 8. Double Click on the <b>InputForm:PR_Details</b> is submitted tab
+  
+ 9. The newly created form design console will be opened.
+  
+ 10. Drag and drop the Paragraph into the canvas and provide the following text:
+  <b>Dear requester, please enter the following details of your purchase requisition below.</b>
+  
+ 11. Drag and Drop the Text Input from the left to the canvas. Rename it to <b>PR Numberand</b> check the required check box from right menu.
+  
+ 12. Similarly create the input fields <b>PRAmount (Number)</b>, <b>Requester Name(Text)</b> and <b>Requisition date (Date)</b>. Mark all the fields as <b>Required</b>.
+  
+ 13. Click on <b>Save</b>. <b>The Process Trigger form is ready !!</b>
+  
 
 
 ## Summary
