@@ -125,7 +125,7 @@ After completing these steps you will have...
   
  33. Click on the Inputs tab from the Inputs. Select <b>PR Amount, PR Number </b>and <b>Requestor Name</b> as input from the form.
   
- 34. To generate an approval notification,click on the <b>+</b>icon on the Approve branch. From the menu choose Forms -><b>+New Form <b> to create a new form. 
+ 34. To generate an approval notification,click on the <b>+</b>icon on the Approve branch. From the menu choose Forms -><b>+New Form </b> to create a new form. 
   
  35. Name the form as <b>Notification: PR Accepted</b>
   
@@ -156,6 +156,16 @@ After completing these steps you will have...
   - <b>PR Amount</b> of type Number and Read Only
   
   44. Select the General tab from the right menu and set the subject as <b>PR Number(form input)</b> followed by<b> rejected</b>.
+  
+  45. Click on the <b>+</b>icon on the Submit branch of the <b>Notification: PR_AcceptedForm </b>and from the menu choose <b>Automation->Create Purchase Requisition From Excel</b>
+  
+  46.The Automation is added to the Process.
+  
+  47. Click on the <b>+</b>icon on the Success branch and from the menu select <b.Controls-> End</b>
+  
+  48. Similarly click the <b>+</b> icon on the Submit branch ofthe <b>Notification:PR Rejected </b>Form and select <b>Controls->End</b>
+  
+  49.When complete,the Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
 
 
 ## Summary
