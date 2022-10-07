@@ -99,6 +99,17 @@ After completing these steps you will have...
   <i>This will insert the Automation that will be executed when the value of PR Amount is less than 100</i>
   
  22. The Create Purchase Requisitions From Excel Automation will be inserted into the Process flow.
+ 
+ 23. To handle PR with amount Greater than 100, an approval from Manager is required, hence an approval form needs to be created.
+ To Create a Manager’s Approvalform,click on the <B>+</b>icon next to the Default Branch and select <b>+ New Approval Form</b>
+ 
+ 24. Give the Name of the Form :<B>Approval: Manager Approval</b>, finally click on <b>Create</b>
+ 
+ 25. Manager’s Approval form will be inserted
+ 
+ 26. Double-click on the Manager’s Approval Form inserted form to open the form editor.
+ Insert Paragraph for Welcome Message:
+ - Drag and Drop the <b>Paragraph </b>from the left Menu and Insert the following Text <i>“Dear Manager, please find details of a new purchase requisition for your review”</i>
   
 
 
