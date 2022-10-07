@@ -1,6 +1,6 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Release and Deploy
 
-In this exercise, we will create...
+In this exercise, we will release the and deploy the automation package to execute the scenario in SAP Process Automation Solution.
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
