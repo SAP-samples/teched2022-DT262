@@ -170,7 +170,7 @@ After completing these steps you will have...
 
 ## Summary
 
-You've now ...
+You have now acquired the SAP S/4HANA Cloud Pre-built content from the bot store and extended the Pre-Delivered Bot uisng SAP Process Automation to include workflow feature.
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
