@@ -11,7 +11,7 @@ After completing these steps you will have created...
 
 2.	For the first version, add a <b>Version</b> Comment if needed and click on <b>Release</b>
 
-3. For the additional version, choose the type of <B>version</b?, add a Version Annotation if needed and click on <b>Release</b>.
+3. For the additional version, choose the type of <B>version</b>, add a Version Annotation if needed and click on <b>Release</b>.
 
 4. The project Released successfully is ready to be deployed.
 
