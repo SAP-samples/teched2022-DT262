@@ -123,6 +123,39 @@ After completing these steps you will have...
   
  32. Similarly for User field  select <b>Process Started By</b>
   
+ 33. Click on the Inputs tab from the Inputs. Select <b>PR Amount, PR Number </b>and <b>Requestor Name</b> as input from the form.
+  
+ 34. To generate an approval notification,click on the <b>+</b>icon on the Approve branch. From the menu choose Forms -><b>+New Form <b> to create a new form. 
+  
+ 35. Name the form as <b>Notification: PR Accepted</b>
+  
+ 36. <b>Notification: PR Accepted</b> form is inserted into the canvas. <b>Double click</b> on the to see the design console.
+  
+ 37. Design the form with the following fields:
+  - Paragraph with Value <b>Dear requestor, your PR was accepted.</b>
+  - <b>PR Number</b>: Read only Text field
+  - <b>PR Amount</b>: Read only Number field
+  - <b>Requestor Name</b>: Read Only Text Field
+  Save the form and Navigate back to the Process flow.
+  
+  38. Click on the <b>Notification: PR Accepted</b> form.
+  
+  39. Go to General tab from the left menu and provide the following inputs:
+  - Subject: <b>PR Number followed by approved</b>
+  - Users: <b>Process Started By</b>
+  
+  40. Select Inputs tab from the right menu and select the Inputs as given in snapshot.
+  
+  41. Click on the <b>Reject</b> branch of the <b>Approval: Manager</b> Approval Form. Click on the <b>+</b>icon on the Reject branch. From the menu choose <b>Forms -> +New Form</b> to create a new form.
+  
+  42. Give the name as <b>Notification: PR Rejected</b>.
+  
+  43. Double click on the newly created form and provide the following fields:
+  - Paragraphwith the following text : <i>Dear Requestor, your PR request was rejected. Please contact purchasing for more details</i>. Click submit to end the workflow
+  - <b>PR Number</b> of type Text and Read Only
+  - <b>PR Amount</b> of type Number and Read Only
+  
+  44. Select the General tab from the right menu and set the subject as <b>PR Number(form input)</b> followed by<b> rejected</b>.
 
 
 ## Summary
