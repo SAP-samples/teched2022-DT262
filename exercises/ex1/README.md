@@ -111,6 +111,18 @@ After completing these steps you will have...
  Insert Paragraph for Welcome Message:
  - Drag and Drop the <b>Paragraph </b>from the left Menu and Insert the following Text <i>“Dear Manager, please find details of a new purchase requisition for your review”</i>
   
+ 27. Drag and Drop the Text Inputs from left menu and name it <B>PR Number</b> and set it <b>Read Only</b> from rightMenu
+  
+ 28.Similarly create <b>PR Amount(Number)</b> and <b>Requester Name(Text)</b> in the formand set them read only as well
+  
+ 29. Click on the <b>Save</b> Button
+  
+ 30. Navigate Back to the Process and Click on <b>Approval:Manager Approval</b> Form. From the Right Menu select<b> General</b> Tab
+  
+ 31. In the Subject field provide <b>PR_Number </b>value as given in the Snapshot.  
+  
+ 32. Similarly for User field  select <b>Process Started By</b>
+  
 
 
 ## Summary
