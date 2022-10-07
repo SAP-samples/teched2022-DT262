@@ -32,22 +32,29 @@ Use your own e-mail address to receive bot execution notifications
 After completing these steps you will have...
 
 1.	From the deployed version of the Business Process Project in the Process Builder, open the process <b>MyWorkflow</b>
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
 
-```
 
-2.	Click here.
+2.	Click on the Copy icon a side the Form Link to copy the link to the Input form in Clipboard
 <br>![](/exercises/ex2/images/02_02_0010.png)
+
+3. Open the form in the browser and fill in the following information with as a Requester with Amount higher than 100.To see the next Manager’s Approval form on the next step.
+
+4. Click <b>Submit</b>.
+
+5. Navigate to <b>Inbox</b>
+
+6. In your inbox a new Task has arrived. Since you are acting as a Manager, click on the Approve Button located atthe bottom of the form.
+
+7. After the approval the Automation will be triggered. The automation will read the inputs from the Excel File and use the system information and credentials to create a purchase requisition inside SAP S/4HANA Cloud.
+
+8. The bot will visibly run automatically, and a post run report will be sent to the email specified (per the variable“EMAIL_RECIPIENTS_48M”)after the run, with a copy stored on the error or success folderlocated in your base folder pathwhere the input was originally kept,as specified(per the variable “BASE_FOLDER_PATH_48M”).
+
+9. You can also cross-check the posted data in the SAP S/4HANA Cloud system, against the data in the post-run excel that was sent to the specified recipient email.
+
+
 
 ## Summary
 
-You've now ...
+Congratulations! You have now successfully modified a Pre-built Botusing the SAP Process Automation. We have looked at a basic POC that leverages the WorkflowManagement, Decision Logic and Approval Forms to create a Business Process.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
