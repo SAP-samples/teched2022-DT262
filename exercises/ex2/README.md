@@ -27,15 +27,11 @@ Use your own e-mail address to receive bot execution notifications
 
 <i>Note: Once you completed the variables and deployed the bot, you may need to repeat this step and re-enter all variables again, if you want to change your input. At this moment also, SAP Process Automation does not allow the deleting of a deployed automation.</i>
 
-7. 
-
-
-
-## Exercise 2.2 Sub Exercise 2 Description
+## Exercise 2.2 Run the Business Process
 
 After completing these steps you will have...
 
-1.	Enter this code.
+1.	From the deployed version of the Business Process Project in the Process Builder, open the process <b>MyWorkflow</b>
 ```abap
 DATA(lt_params) = request->get_form_fields(  ).
 READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
