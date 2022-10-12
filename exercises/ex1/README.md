@@ -115,7 +115,7 @@ After completing these steps you will have...
  
  <br>![](/exercises/ex1/images/ex12_13.png)
   
- 14. Return to the Automation tab.
+ 14. Return to the <b>MyWorkflow_XXX tab.
  
  <br>![](/exercises/ex1/images/ex12_14.png)
   
@@ -123,7 +123,7 @@ After completing these steps you will have...
  
  <br>![](/exercises/ex1/images/ex12_15.png)
   
- 16. On the details panel for Condition, click on <b>Open Condition Editor</b>
+ 16.On details panel for Condition, click on <b>Open Condition Editor</b>
  
  <br>![](/exercises/ex1/images/ex12_16.png)
   
@@ -156,7 +156,7 @@ After completing these steps you will have...
  <br>![](/exercises/ex1/images/ex12_22.png)
  
  23. To handle PR with amount Greater than 100, an approval from Manager is required, hence an approval form needs to be created.
- To Create a Manager’s Approvalform,click on the <B>+</b>icon next to the Default Branch and select <b>+ New Approval Form</b>
+  To Create a Manager’s Approval form,click on the <B>+</b>icon next to the <B>Default</b> Branch and select <b>+ New Approval Form</b>
  
  <br>![](/exercises/ex1/images/ex12_23.png)
  
