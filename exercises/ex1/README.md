@@ -22,7 +22,7 @@ response->set_text( |Hello World! | ).
 ```
 3. Once the Project Name <b>Create Purchase Requisitions from Excel (48M)</b>is found, click on the <b>Add</b> button and select <b>Create from Template</b>.
 
-4. Give the Name of the Project.E.g.,“Create Purchase Requisitions”+ "+" + your group number (sample- Create Purchase Requisitions_001 for group 1)
+4. Give the Name of the Project.E.g.,“Create Purchase Requisitions”+ "_" + your group number (sample- Create Purchase Requisitions_011 for group 11)
 
 5. Next, choose <b>Create </b>
 
