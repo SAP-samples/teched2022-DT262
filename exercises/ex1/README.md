@@ -17,29 +17,40 @@ After completing these steps you will have created...
 <br>![](/exercises/ex1/images/ex1_1.png)
 
 2. Filter by Project Type <b>Business Process</b> in the checkbox on left menu and search for keyword <b>Purchase Requisition</b>
-```abap
-response->set_text( |Hello World! | ). 
-```
+
+<br>![](/exercises/ex1/images/ex1_2.png)
+
 3. Once the Project Name <b>Create Purchase Requisitions from Excel (48M)</b>is found, click on the <b>Add</b> button and select <b>Create from Template</b>.
+
+<br>![](/exercises/ex1/images/ex1_3.png)
 
 4. Give the Name of the Project.E.g.,“Create Purchase Requisitions”+ "_" + your group number (sample- Create Purchase Requisitions_011 for group 11)
 
+<br>![](/exercises/ex1/images/ex1_4.png)
+
 5. Next, choose <b>Create </b>
 
-6. To see the newly created project,navigate back to <b>Lobby</b> from top menu. You should find the newly created project here.
-  
-7. Click on the project name to open it.
-  
-8. Click <B>Settings </b> as indicated by the gear icon.
-  
-9. You will need to set the <b>Project Attributes</b>, for your project, to ensure that the deployed project will run against the right agent with the right specified attributes.
-  
-10. On the next screen, click on <B>Attributes</b>.
-  
-11. Select Attributes: <b>User</b>
-  
-12. Enter values unique to your project ID, as defined in the second last step of the previous Registration document:E.g. spaworkshop_"your participant ID"
+<br>![](/exercises/ex1/images/ex1_5.png)
 
+6. A new window opens where you can see the bot artifacts.
+
+<br>![](/exercises/ex1/images/ex1_6.png)
+  
+7. Click <B>Settings </b> as indicated by the gear icon.
+
+<br>![](/exercises/ex1/images/ex1_7.png)
+  
+8. You will need to set the <b>Project Attributes</b>, for your project, to ensure that the deployed project will run against the right agent with the right specified attributes.
+
+<br>![](/exercises/ex1/images/ex1_8.png)
+  
+9. On the next screen, click on <B>Attributes</b> and Select Attributes: <b>User</b>
+
+<br>![](/exercises/ex1/images/ex1_9.png)
+  
+10. Enter values unique to your project ID, as defined in the second last step of the previous Registration document:E.g. DT262_"Group Number" (Sample DT262_011 for group 11)
+
+<br>![](/exercises/ex1/images/ex1_10.png)
 
 ## Exercise 1.2 Create Business Process
 
