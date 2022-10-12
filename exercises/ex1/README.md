@@ -20,7 +20,7 @@ After completing these steps you will have created...
 ```abap
 response->set_text( |Hello World! | ). 
 ```
-3. Once the Project Name <b>Create Purchase Requisitions from Excel (48M)</b>is found, click on the arrow next to Open Button and select <b>Create from Template</b>.
+3. Once the Project Name <b>Create Purchase Requisitions from Excel (48M)</b>is found, click on the Add button and select <b>Create from Template</b>.
 
 4. Give the Name of the Project.E.g.,“Create Purchase Requisitions”+ <your participant number>
 
