@@ -60,7 +60,7 @@ After completing these steps you will have...
 
 <br>![](/exercises/ex1/images/ex1_6.png)
 
-2.	In the Overview tab, click on + icon -> <b>Create</b> 
+2.	In the Overview tab, click on <B>+</b> icon -> <b>Create</b> 
 
 <br>![](/exercises/ex1/images/ex12_2.png)
   
@@ -69,7 +69,7 @@ After completing these steps you will have...
 <br>![](/exercises/ex1/images/ex12_3.png)
   
 4. In the pop-up, do the following:
-  - Enter theNamefield. E.g. “MyWorkflow”
+  - Enter the Namefield. E.g. “MyWorkflow_XXX” (Sample MyWorkflow_011 for group 11)
   - Enter a description(optional)
   - Choose Create
   
@@ -90,7 +90,7 @@ After completing these steps you will have...
   
  <br>![](/exercises/ex1/images/ex12_7.png)
   
- 8. Double Click on the <b>InputForm:PR_Details</b> is submitted tab
+ 8. Click on the <b>InputForm:PR_Details</b> and next select <b> Open Editor</b> option.
  
  <br>![](/exercises/ex1/images/ex12_8.png)
   
@@ -103,11 +103,11 @@ After completing these steps you will have...
   
   <br>![](/exercises/ex1/images/ex12_10.png)
   
- 11. Drag and Drop the Text Input from the left to the canvas. Rename it to <b>PR Numberand</b> check the required check box from right menu.
+ 11. Drag and Drop the Text Input from the left to the canvas. Rename it to <b>PR Number</b> and check the <b>Required</b> check box from right menu.
  
  <br>![](/exercises/ex1/images/ex12_11.png)
   
- 12. Similarly create the input fields <b>PRAmount (Number)</b>, <b>Requester Name(Text)</b> and <b>Requisition date (Date)</b>. Mark all the fields as <b>Required</b>.
+ 12. Similarly create the input fields <b>PR Amount (Number)</b>, <b>Requester Name(Text)</b> and <b>Requisition date (Date)</b>. Mark all the fields as <b>Required</b>.
  
  <br>![](/exercises/ex1/images/ex12_12.png)
   
