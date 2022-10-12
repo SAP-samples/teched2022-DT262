@@ -15,7 +15,6 @@ After completing these steps you will have created...
 1. Login to the SAP Build Process Automation Tenant using below url and Navigate to <b>Store</b>
 
 <br>![](/exercises/ex1/images/ex1_1.png)
-
 2. Filter by Project Type <b>Process Automation</b> in the checkbox on left menu and search for keyword <b>Purchase Requisition</b>
 ```abap
 response->set_text( |Hello World! | ). 
