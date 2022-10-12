@@ -46,11 +46,11 @@ After completing these steps you will have created...
   
 9. On the next screen, click on <B>Attributes</b> and Select Attributes: <b>User</b>
 
-<br>![](/exercises/ex1/images/ex1_9.png)
+<br>![](/exercises/ex1/images/ex1_10.png)
   
 10. Enter values unique to your project ID, as defined in the second last step of the previous Registration document:E.g. DT262_"Group Number" (Sample DT262_011 for group 11)
 
-<br>![](/exercises/ex1/images/ex1_10.png)
+<br>![](/exercises/ex1/images/ex1_9.png)
 
 ## Exercise 1.2 Create Business Process
 
