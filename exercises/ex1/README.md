@@ -115,7 +115,7 @@ After completing these steps you will have...
  
  <br>![](/exercises/ex1/images/ex12_13.png)
   
- 14. Return to the <b>MyWorkflow_XXX tab.
+ 14. Return to the <b>MyWorkflow_XXX</b> tab.
  
  <br>![](/exercises/ex1/images/ex12_14.png)
   
