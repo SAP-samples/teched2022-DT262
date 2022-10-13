@@ -174,11 +174,11 @@ After completing these steps you will have...
  
  <br>![](/exercises/ex1/images/ex12_26.png)
   
- 27. Drag and Drop the Text Inputs from left menu and name it <B>PR Number</b> and set it <b>Read Only</b> from rightMenu
+ 27. Drag and Drop the Text Inputs from left menu and name it <B>PR Number</b> and set it <b>Read Only</b> from right Menu
  
  <br>![](/exercises/ex1/images/ex12_27.png)
   
- 28.Similarly create <b>PR Amount(Number)</b> and <b>Requester Name(Text)</b> in the formand set them read only as well
+ 28.Similarly create <b>PR Amount(Number)</b> and <b>Requester Name(Text)</b> in the form and set them read only as well
  
  <br>![](/exercises/ex1/images/ex12_28.png)
   
