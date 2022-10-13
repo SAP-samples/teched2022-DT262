@@ -198,7 +198,7 @@ After completing these steps you will have...
  
 <br>![](/exercises/ex1/images/ex12_32.png)
   
- 33. Click on the Inputs tab from the Inputs. Select <b>PR Amount, PR Number </b>and <b>Requestor Name</b> as input from the form.
+ 33. Click on the Inputs tab from the Inputs. Select <b>PR Amount, PR Number </b>and <b>Requestor Name</b> as input from the form. Click <b> Save</b>
  
   <br>![](/exercises/ex1/images/ex12_33.png)
   
