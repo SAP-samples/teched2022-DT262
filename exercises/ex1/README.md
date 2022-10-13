@@ -246,13 +246,13 @@ After completing these steps you will have...
   <br>![](/exercises/ex1/images/ex12_42.png)
   
   43. Double click on the newly created form and provide the following fields:
-  - Paragraphwith the following text : <i>Dear Requestor, your PR request was rejected. Please contact purchasing for more details</i>. Click submit to end the workflow
+  - Paragraph with the following text : <i>Dear Requestor, your PR request was rejected. Please contact purchasing for more details</i>. Click submit to end the workflow
   - <b>PR Number</b> of type Text and Read Only
   - <b>PR Amount</b> of type Number and Read Only
   
   <br>![](/exercises/ex1/images/ex12_43.png)
   
-  44. Select the General tab from the right menu and set the subject as <b>PR Number(form input)</b> followed by<b> rejected</b>.
+  44. Select the General tab from the right menu and set the subject as <b>PR Number(form input)</b> followed by<b> Rejected</b>. In <b>User</b> field  select <b>Process Started By</b>
   
   <br>![](/exercises/ex1/images/ex12_44.png)
   
