@@ -1,24 +1,30 @@
-# Level 1 Heading
+<b>Access to SAP Process Automation</b>
 
-In this exercise, you will...
+In this exercise, you will access the SAP Process Automation Cloud Tenant and Register Desktop Agent to the Cloud Tenant.
 
 ## Level 2 Heading
 
 After completing these steps you will have....
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+1.The SAP Build Process Automation Agent should have now been installed onto your system. You can view it on your system tray here with the icon.
+
+<br>![](/exercises/ex0/images/0_1.png)
 
 2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+
+<br>![](/exercises/ex0/images/0_2.png)
+3. Go to the SAP Process Automation tenant via the url and with the login and password provided to you by the speaker:
+
+https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com/lobby
+<br>![](/exercises/ex0/images/0_3.png)
+
+4. You should see the following start page at “Lobby”.
+
+5. Click “Settings” at the top
+
+6.Select “Agents > Agents List”
+
+7. Select “Register new agent”
 
 ## Summary
 
