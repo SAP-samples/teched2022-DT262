@@ -12,82 +12,85 @@ In this exercise, you will access the SAP Process Automation Cloud Tenant and Re
 
 https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com/lobby
 <br>![](/exercises/ex0/images/0_2.png)
+<br>![](/exercises/ex0/images/0_2_1.png)
 
-4. You should see the following start page at “Lobby”.
+3. You should see the following start page at “Lobby”.
 <br>![](/exercises/ex0/images/0_3.png)
 
-5. Click “Settings” at the top
+4. Click “Settings” at the top
 
 <br>![](/exercises/ex0/images/0_4.png)
 
-6.Select “Agents > Agents List”
+5.Select “Agents > Agents List”
 
 <br>![](/exercises/ex0/images/0_5.png)
 
-7. Select “Register new agent”
+6. Select “Register new agent”
 
 <br>![](/exercises/ex0/images/0_6.png)
 
-9. A URL will be seen in the field.Copy the link.
+7. A URL will be seen in the field.Copy the link.
 
 <B>SAP RPA Agent: Registering your tenant on the agent</b>
 <br>![](/exercises/ex0/images/0_7.png)
 
-10. Click “More Actions”
+8. Now access the desktop agent on the taskbar and Click <b>More Actions</b>
+
+<br>![](/exercises/ex0/images/0_8.png)
+
+9. Click Tenants
+
+<br>![](/exercises/ex0/images/0_9.png)
+10. On Next Screen, click "Add"
 
 <br>![](/exercises/ex0/images/0_10.png)
-
-11. Click Tenants
+11. You will be prompted to add a name and domain.
+- Input the following as Name - <b>DT262</b>
+- For Domain, <b>input the tenant URL that you copied previously from the SAP Process Automation tenant</b>
+- Click <b>Save</b>.
 
 <br>![](/exercises/ex0/images/0_11.png)
-12. On Next Screen, click "Add"
+12. Select your newly created Tenant, per above. E.g. ‘DT262’. Click <B>Activate</b>. You might get a message <b> Are you sure you want to switch to tenant DT262.
 
 <br>![](/exercises/ex0/images/0_12.png)
-13. You will be prompted to add a name and domain.
-- Input the following as Name.
-- For Domain, input the tenant URL that you copied previously from the SAP Process Automation tenant.
-- Click “Save”.
 
-<br>![](/exercises/ex0/images/0_13.png)
-14. Select your newly created Tenant, per above. E.g. ‘SAP Process Automation – Your initials’.
+<br>![](/exercises/ex0/images/0_12_1.png)
 
-<br>![](/exercises/ex0/images/0_14.png)
-
-15. Click “Activate”.
-
-<br>![](/exercises/ex0/images/0_15.png)
 
 Note: Your Desktop Agent on the system tray may restart a couple of times. Once completed, the RPA Desktop Agent will then be connected
 to the SAP Process Automation tenant that you have access to
 
-16. On the next screen, insert when prompted the credentials provided to you in the email. (Example only) user: DT262_0XX( example for group 11, DT262_011) Password: <B>As provided by the speaker</b>, Next, Click <b>Okay</b> when prompted
+13. On the next screen, insert when prompted the credentials provided to you in the email. (Example only) user: DT262_0XX( example for group 11, DT262_011) Password: <B>As provided by the speaker</b>, Next, Click <b>Okay</b> when prompted
+
+<br>![](/exercises/ex0/images/0_13.png)
+<br>![](/exercises/ex0/images/0_13_1.png)
+  
+
+ 14. Click on <b>Desktop Agent</b> again, after restart is complete.
+
+<br>![](/exercises/ex0/images/0_14.png)
+
+ 15. Click the center icon, <b>Projects</b>.
+
+<br>![](/exercises/ex0/images/0_15.png)
+
+16. You should see the following screen, with two modes: <B>“Interactive (attended)” or “Background (unattended)”</b>.Select <B>“Background (unattended)</b>”.Your Desktop Agent will restart a couple of times. Next click <b> OK</b> 
 
 <br>![](/exercises/ex0/images/0_16.png)
 
-17. Click on Desktop Agent again, after restart is complete.
+17. Click and check that your Desktop Agent is now in “Background (unattended)” mode. You should see the following.
 
 <br>![](/exercises/ex0/images/0_17.png)
-
-18. Click the center icon, “Projects”.
+  
+18. As this SAP Process Automation exercise will use other elements (such as forms to trigger a process instead of a user manually starting an RPA bot from the system tray in attended mode), we will leave this agent as unattended. Go back to the SAP Process Automation tenant via the url provided to you.From “Lobby”, navigate back to “Settings” then to “Agents > agent list”.
 
 <br>![](/exercises/ex0/images/0_18.png)
 
-19. You should see the following screen, with two modes: “Interactive (attended)” or “Background (unattended)”. (2) Select “Background (unattended)”. (3) Your Desktop Agent will restart a couple of times.
+19. You should view the following “Agents” page, with a list of “items”. Your newly registered agent should be reflected there.
 
 <br>![](/exercises/ex0/images/0_19.png)
 
-20. Click and check that your Desktop Agent is now in “Background (unattended)” mode. You should see the following.
-
-<br>![](/exercises/ex0/images/0_20.png)
-21. As this SAP Process Automation exercise will use other elements (such as forms to trigger a process instead of a user manually starting an RPA bot from the system tray in attended mode), we will leave this agent as unattended. Go back to the SAP Process Automation tenant via the url provided to you.From “Lobby”, navigate back to “Settings” then to “Agents > agent list”.
-
-<br>![](/exercises/ex0/images/0_21.png)
-
-22. You should view the following “Agents” page, with a list of “items”. Your newly registered agent should be reflected there.
-
-<br>![](/exercises/ex0/images/0_22.png)
-
-23. If not on the Agents List, you can sort by descending, the right-most column Last Updated. Your agent should be the latest entry if sorted by last updated,
+20. If not on the Agents List, you can sort by descending, the right-most column Last Updated. Your agent should be the latest entry if sorted by last updated,
 
 and described either by:
 
