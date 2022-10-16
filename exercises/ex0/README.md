@@ -92,27 +92,22 @@ to the SAP Process Automation tenant that you have access to
 
 20. If not on the Agents List, you can sort by descending, the right-most column Last Updated. Your agent should be the latest entry if sorted by last updated,
 
-and described either by:
+and described by: your Machine name (your laptop)
 
-a. your user - DT262_0XX
+<br>![](/exercises/ex0/images/0_20.png)
 
-b. your Machine name (your laptop)
+21. Ensure that your newly created agent is in a state “Idle”, You can also further filter to your agent by using the Search field:your user: E.g. DT262_0XX
+<br>![](/exercises/ex0/images/0_21.png)
+
+22. Next, click on the <b> Agent Attribute</b> on the left side of the screen under <B> Agents</b>
+<br>![](/exercises/ex0/images/0_22.png)
+
+23. On the right, head to the column <B>Actions</b>, and select the <B>three dots</b>. Select <B>Manage Attributes</b>.
 
 <br>![](/exercises/ex0/images/0_23.png)
 
-24. Ensure that your newly created agent is in a state “Idle”, You can also further filter to your agent by using the Search field:your user: E.g. DT262_0XX
-<br>![](/exercises/ex0/images/0_24.png)
 
-
-25. On the right, head to the column “Actions”, and select the three dots.
-
-<br>![](/exercises/ex0/images/0_25.png)
-
-26.  Select Manage Attributes
-
-<br>![](/exercises/ex0/images/0_26.png)
-
-27. Select Attributes <b>User</b>Enter under <b>Values</b>, your user ID provided as per the email:E.g. DT262_0XX’.Click Confirm.
+23. Select Attributes <b>User</b>Enter under <b>Values</b>, your user ID provided as per the email:E.g. DT262_0XX’.Click Confirm.
 
 <br>![](/exercises/ex0/images/0_27.png)
 
