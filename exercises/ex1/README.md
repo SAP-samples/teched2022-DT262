@@ -5,7 +5,7 @@ Creating purchase requisitions manually is not just time taking, but also a tedi
 During this exercise, the following extensions will be made to the  pre-delivered content:
 - An input form for the User to enter PR Number, PR Amount, Requester Number and Requisition Date.
 - An Approval form for the Manager to see the PR information to Accept or Reject.
-- Notification Form for the Userto show if the PR is accepted or rejected.
+- Notification Form for the User to show if the PR is accepted or rejected.
 - Workflow to Bootstrap the process, where user first submits the form and based on PR Amount the PR is sent forApproval to Manager. Only after Manager’s approval or PR with Low amount the Purchase Requisition is created using the pre-built bot.
 
 ## Exercise 1.1 Acquire the Pre-built Bot Template Project From the Store
