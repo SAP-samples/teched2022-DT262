@@ -40,7 +40,7 @@ After completing these steps you will have...
 
 <br>![](/exercises/ex2/images/22_1.png)
 
-2.	Click on the Copy icon a side the Form Link to copy the link to the Input form in Clipboard
+2.	Click on the Copy icon on the right side of the<b> Form Link<b> field
 
 <br>![](/exercises/ex2/images/22_2.png)
 
