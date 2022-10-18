@@ -2,7 +2,7 @@
 
 In this exercise, we will release and deploy the automation package to execute the scenario in SAP Build Process Automation Solution.
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise 2.1 Release and Deploy Process
 
 After completing these steps you will have created...
 
@@ -25,7 +25,7 @@ After completing these steps you will have created...
    - <b>password</b> - As provided by the speaker
 - <b>BASE_FOLDER_PATH_48M</b>: Local folder path where the input file containing the data is stored as well as the output logs are generated. 
 <br><i>The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> material folder and placed in the local folder on windows Desktop</i></br>
-- <b>EMAIL_RECIPIENTS_48M</b> : Email recipient. Use your personal e-mail address to receive bot execution notifications
+- <b>EMAIL_RECIPIENTS_48M</b>: Email recipient. Use your personal e-mail address to receive bot execution notifications
 - <b>SAP_CLIENT</b>: leave blank
 
 <br>![](/exercises/ex2/images/21_5.png)
@@ -36,10 +36,12 @@ After completing these steps you will have created...
 
 After completing these steps you will have...
 
-1.	From the deployed version of the Business Process Project in the Process Builder, open the process <b>MyWorkflow</b>
+1.	From the deployed version of the Project in the Process Builder, open the process <b>MyWorkflow_0XX</b>
 
 <br>![](/exercises/ex2/images/22_1.png)
+
 2.	Click on the Copy icon a side the Form Link to copy the link to the Input form in Clipboard
+
 <br>![](/exercises/ex2/images/22_2.png)
 
 3. Open the form in the browser and fill in the following information with as a Requester with Amount higher than 100.To see the next Manager’s Approval form on the next step. Click <b>Submit</b>.
