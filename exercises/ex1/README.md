@@ -77,9 +77,9 @@ After completing these steps you will have...
   
 <br>![](/exercises/ex1/images/ex12_4.png)
   
-5. Click <b>Select a Start Trigger</b>
+5. Click <b>+</b>to Start a Trigger
 
-<br>![](/exercises/ex1/images/ex12_6.png)
+<br>![](/exercises/ex1/images/ex12_5.png)
   
 6. On the available Forms dropdown, choose <b>New Form</b> in the Forms field
 
