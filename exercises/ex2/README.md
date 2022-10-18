@@ -44,21 +44,21 @@ After completing these steps you will have...
 
 <br>![](/exercises/ex2/images/22_2.png)
 
-3. Open the form link in the new browser and fill in the following information with Requester with Amount higher than 100.To see the next Manager’s Approval form on the next step, click <b>Submit</b>.
+3. Open the form link in the new browser and fill in the following information with requester with Amount higher than 100. To see the next Manager’s Approval form on the next step, click <b>Submit</b>.
 
 <br>![](/exercises/ex2/images/22_3.png)
 
-4. In the lobby section, Please navigate to <b>Inbox</b>
+4. In the <b>Lobby </b>section, Navigate to <b>Inbox</b>
 
 <br>![](/exercises/ex2/images/22_4.png)
 
-5. In your inbox a new Task has arrived. Since you are acting as a Manager, click on the<B> Approve</b> Button located atthe bottom of the form.
+5. In your <B>Inbox</b> a <B>new Task</b>has arrived. Since you are acting as a manager, click on the<B> Approve</b> bbtton located at the bottom of the form.
 
 <br>![](/exercises/ex2/images/22_5.png)
 
-6. After the approval the Automation will be triggered. The automation will read the inputs from the Excel File and use the system information and credentials to create a purchase requisition inside SAP S/4HANA Cloud.
+6. After the approval the <B>Create Purchase Requisitions from Excel(48M)</b> Automation will be triggered. The automation will read the inputs from the Excel File and use the system information and credentials to create a purchase requisition in the SAP S/4HANA Cloud.
 
-7. The bot will visibly run automatically, and a post run report will be sent to the email specified (per the variable“EMAIL_RECIPIENTS_48M”)after the run, with a copy stored on the error or success folderlocated in your base folder pathwhere the input was originally kept,as specified(per the variable “BASE_FOLDER_PATH_48M”).
+7. The bot will run automatically, and an output report will be sent to the email specified per the variable <b>EMAIL_RECIPIENTS_48</b> with a copy of the same stored on the error or success folder located in your base folder(variable - <b>BASE_FOLDER_PATH_48M</b>).
 
 <br>![](/exercises/ex2/images/22_7.png)
 
