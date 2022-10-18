@@ -10,7 +10,7 @@ During this exercise, the following extensions will be made to the  pre-delivere
 
 ## Exercise 1.1 Acquire the Pre-built Bot Template Project From the Store
 
-After completing these steps you will have created...
+After completing these steps you will have aquire the SAP S/4HANA Cloud Out-of-box prebuilt template for Purchase Requisition from bot store and extend the scenario to include approval workflow.
 
 1. Login to the SAP Build Process Automation Tenant using below url and Navigate to <b>Store</b>
 
