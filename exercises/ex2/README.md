@@ -21,7 +21,7 @@ After completing these steps you will have created...
 
 <br>![](/exercises/ex2/images/21_4.png)
 
-5. Fill the Variables and click on Confirm
+5. Fill the Variables and click on Confirm and then Deploy button
 - SYSTEMURL_ODATA: ODATA URL of S4 system. For this workshop use value "https://my401669-api.s4hana.cloud.sap/sap/opu/odata/sap”
 - BASE_FOLDER_PATH_48M:local folder path, where the file containing Purchase Requisitionsis stored. The sample input file for this workshop can be downloaded from here 
 - EMAIL_RECIPIENTS_48M:Email recipient. <b>Use your own e-mail address to receive bot execution notifications</b>
