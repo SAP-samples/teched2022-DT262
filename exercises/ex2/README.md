@@ -23,8 +23,9 @@ After completing these steps you will have created...
 - <b>S4H_USER_AUTH_48M</b>: 
    - <b>User</b> - DT262_USER  
    - <b>Password</b> - As provided by the speaker
-- <b>BASE_FOLDER_PATH_48M</b>:local folder path, where the file containing Purchase Requisitions stored. The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> Material folder and placed in the local forlder on <b>Desktop</b>
-- <b>EMAIL_RECIPIENTS_48M</b>:Email recipient. <b>Use your personal e-mail address to receive bot execution notifications</b>
+- <b>BASE_FOLDER_PATH_48M</b>: Local folder path, where the file containing Purchase Requisitions stored. 
+<i>The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> material folder and placed in the local folder on <b>Desktop</b></i>
+- <b>EMAIL_RECIPIENTS_48M</b>:Email recipient. Use your personal e-mail address to receive bot execution notifications
 - <b>SAP_CLIENT</b>: leave blank
 
 <br>![](/exercises/ex2/images/21_5.png)
