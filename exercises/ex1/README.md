@@ -58,7 +58,7 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 
 After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction from the SAP Bot Store, we will now define the approval process for this bot by including the workflow technology.
 
-1.	When you open a project, you are taken to the project Overview tab.The list of all artifacts is displayed.
+1.	When you open a project, you are taken to the project <b>Overview</b> tab.The list of all artifacts is displayed.
 
 <br>![](/exercises/ex1/images/ex1_6.png)
 
