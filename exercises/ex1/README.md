@@ -174,7 +174,7 @@ After completing these steps you will have...
  
  <br>![](/exercises/ex1/images/ex12_26.png)
   
- 27. Drag and Drop the Text Inputs from left menu and name it <B>PR Number</b> and set it <b>Read Only</b> from right Menu
+ 27. Drag and Drop the Text Inputs from left menu and name it <B>PR Number</b> and set it <b>Read Only</b> from right menu
  
  <br>![](/exercises/ex1/images/ex12_27.png)
   
