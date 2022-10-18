@@ -127,7 +127,7 @@ After completing these steps you will have...
  
  <br>![](/exercises/ex1/images/ex12_16.png)
   
- 17. In the Branch condition you will need to Provide the Item to be compared, the operator and value to be compared.Click on Each text box to select the following value:
+ 17. In the Branch condition you will need to provide the item to be compared, the operator and value to be compared. Click on Each text box to select the following value:
   - Select Item:PR Amount
   - Operator:is less than or equal
   - Value:100
