@@ -275,13 +275,13 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
   
   <br>![](/exercises/ex1/images/ex12_48.png)
   
-  49.When complete,nthe Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
+  49.When complete, the Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
 
  <br>![](/exercises/ex1/images/ex12_49.png)
 
 ## Summary
 
-You have now acquired the SAP S/4HANA Cloud Pre-built content from the SAP Bot Store and extended the Pre-built Bot uisng SAP Build Process Automation to include workflow feature.
+You have now acquired the SAP S/4HANA Cloud Pre-built content from the SAP Bot Store and extended the Pre-built Bot using SAP Build Process Automation to include SAP Workflow feature.
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
