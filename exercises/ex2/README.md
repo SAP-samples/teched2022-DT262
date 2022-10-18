@@ -1,6 +1,6 @@
 # Exercise 2 - Release and Deploy
 
-In this exercise, we will release the and deploy the automation package to execute the scenario in SAP Build Process Automation Solution.
+In this exercise, we will release and deploy the automation package to execute the scenario in SAP Build Process Automation Solution.
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
@@ -13,15 +13,11 @@ After completing these steps you will have created...
 
 <br>![](/exercises/ex2/images/21_2.png)
 
-3. For the additional version, choose the type of <B>version</b>, add a Version Annotation if needed and click on <b>Release</b>.
-
-<br>![](/exercises/ex2/images/21_3.png)
-
-4. The project Released successfully is ready to be deployed.Next, click on <B> Deploy</b>
+3. The project Released successfully is ready to be deployed.Next, click on <B> Deploy</b>
 
 <br>![](/exercises/ex2/images/21_4.png)
 
-5. Fill the Variables and click on Confirm and then Deploy button
+4. Fill the Variables and click on Confirm and then Deploy button
 - SYSTEMURL_ODATA: ODATA URL of S4 system. For this workshop use value "https://my401669-api.s4hana.cloud.sap/sap/opu/odata/sap”
 - BASE_FOLDER_PATH_48M:local folder path, where the file containing Purchase Requisitionsis stored. The sample input file for this workshop can be downloaded from here 
 - EMAIL_RECIPIENTS_48M:Email recipient. <b>Use your own e-mail address to receive bot execution notifications</b>
