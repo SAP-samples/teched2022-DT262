@@ -201,7 +201,7 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  
 <br>![](/exercises/ex1/images/ex12_32.png)
   
- 33. Click on the <b>Inputs>/b> tab from the Inputs. Select <b>PR Amount, PR Number </b>and <b>Requestor Name</b> as input from the form. Click <b> Save</b>
+ 33. Click on the <b>Inputs</b> tab from the Inputs. Select <b>PR Amount, PR Number </b>and <b>Requestor Name</b> as input from the form. Click <b> Save</b>
  
   <br>![](/exercises/ex1/images/ex12_33.png)
   
