@@ -19,7 +19,7 @@ After completing these steps you will have created...
 <br>![](/exercises/ex2/images/21_4.png)
 
 4. Fill the Variables and click on <b>Confirm</b> and then <b>Deploy</b> button
-- <b>SYSTEMURL_ODATA</b>: ODATA URL of The SAP S/4HANA Cloud system. Value - <b>https://my401669-api.s4hana.cloud.sap/sap/opu/odata/sap</B>
+- <b>SYSTEMURL_ODATA</b>: The SAP S/4HANA Cloud system Odata URL. Value - <br><b>https://my401669-api.s4hana.cloud.sap/sap/opu/odata/sap</B></br>
 - <b>S4H_USER_AUTH_48M</b>: 
    - <b>User</b> - DT262_USER  
    - <b>Password</b> - As provided by the speaker
