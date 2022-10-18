@@ -157,12 +157,12 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  
  <br>![](/exercises/ex1/images/ex12_22.png)
  
- 23. To handle PR with amount Greater than 100, an approval from Manager is required, hence an approval form needs to be created.
-  To Create a Manager’s Approval form,click on the <B>+</b>icon next to the <B>Default</b> Branch and select <b>+ New Approval Form</b>
+ 23. To handle PR with amount <b>greater than 100</b>, an approval from manager is required, hence an approval form needs to be created.
+  To Create a Manager’s Approval form, click on the <B>+</b> icon next to the <B>Default</b> Branch and select <b>+ New Approval Form</b>
  
  <br>![](/exercises/ex1/images/ex12_23.png)
  
- 24. Give the Name of the Form :<B>Approval: Manager Approval</b>, finally click on <b>Create</b>
+ 24. Give the Name of the Form:<B>Approval: Manager Approval</b>, finally click on <b>Create</b>
  
  <br>![](/exercises/ex1/images/ex12_24.png)
  
@@ -172,7 +172,8 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  
  26. Double-click on the Manager’s Approval Form inserted form to open the form editor.
  Insert Paragraph for Welcome Message:
- - Drag and Drop the <b>Paragraph </b>from the left Menu and Insert the following Text <i>“Dear Manager, please find details of a new purchase requisition for your review”</i>
+ - Drag and Drop the <b>Paragraph </b>from the left Menu and Insert the following Text 
+ <i>“Dear Manager, please find details of a new purchase requisition for your review”</i>
  
  <br>![](/exercises/ex1/images/ex12_26.png)
   
