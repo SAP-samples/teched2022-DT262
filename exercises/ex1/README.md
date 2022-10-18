@@ -264,7 +264,7 @@ After completing these steps you will have...
   
   <br>![](/exercises/ex1/images/ex12_46.png)
   
-  47. Click on the <b>+</b>icon on the Success branch and from the menu select <b.Controls-> End</b>
+  47. Click on the <b>+</b>icon on the Success branch and from the menu select <b>Controls-> End</b>
   
   <br>![](/exercises/ex1/images/ex12_47.png)
   
