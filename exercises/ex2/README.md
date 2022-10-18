@@ -1,4 +1,4 @@
-# Exercise 2 - Release and Deploy
+# Exercise 2 - Release, Deploy and Exceute the Scenario
 
 In this exercise, we will release and deploy the automation package to execute the scenario in SAP Build Process Automation Solution.
 
@@ -21,11 +21,11 @@ After completing these steps you will have created...
 4. Fill the Variables and click on <b>Confirm</b> and then <b>Deploy</b> button
 - <b>SYSTEMURL_ODATA</b>: The SAP S/4HANA Cloud system Odata url. <br>The value - <b>https://my401669-api.s4hana.cloud.sap/sap/opu/odata/sap</B></br>
 - <b>S4H_USER_AUTH_48M</b>: 
-   - <b>User</b> - DT262_USER  
-   - <b>Password</b> - As provided by the speaker
+   - <b>login</b> - DT262_USER  
+   - <b>password</b> - As provided by the speaker
 - <b>BASE_FOLDER_PATH_48M</b>: Local folder path where the input file containing the data is stored as well as the output logs are generated. 
-<br><i>The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> material folder and placed in the local folder on <b>Desktop</b></i></br>
-- <b>EMAIL_RECIPIENTS_48M</b>:Email recipient. Use your personal e-mail address to receive bot execution notifications
+<br><i>The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> material folder and placed in the local folder on windows Desktop</i></br>
+- <b>EMAIL_RECIPIENTS_48M</b> : Email recipient. Use your personal e-mail address to receive bot execution notifications
 - <b>SAP_CLIENT</b>: leave blank
 
 <br>![](/exercises/ex2/images/21_5.png)
