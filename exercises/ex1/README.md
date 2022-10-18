@@ -14,6 +14,8 @@ After completing these steps you will have created...
 
 1. Login to the SAP Build Process Automation Tenant using below url and Navigate to <b>Store</b>
 
+https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com/lobby
+
 <br>![](/exercises/ex1/images/ex1_1.png)
 
 2. Choose Filter by Project Type <b>Business Process</b> in the checkbox on left menu and search for keyword <b>Purchase Requisition</b>
