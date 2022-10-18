@@ -26,7 +26,7 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 
 <br>![](/exercises/ex1/images/ex1_3.png)
 
-4. Give the Name of the Project.E.g.,“Create Purchase Requisitions”+ "_" + your group number (sample- Create Purchase Requisitions_011 for group 11)
+4. Give the Name of the Project.E.g.,<b>“Create Purchase Requisitions”+ "_" + your group number</b> (sample- Create Purchase Requisitions_011 for group 11)
 
 <br>![](/exercises/ex1/images/ex1_4.png)
 
