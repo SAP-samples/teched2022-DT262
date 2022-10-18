@@ -1,6 +1,6 @@
 # Exercise 2 - Release and Deploy
 
-In this exercise, we will release the and deploy the automation package to execute the scenario in SAP Process Automation Solution.
+In this exercise, we will release the and deploy the automation package to execute the scenario in SAP Build Process Automation Solution.
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
@@ -30,7 +30,7 @@ After completing these steps you will have created...
 
 <br>![](/exercises/ex2/images/21_5.png)
 
-<i>Note: Once you completed the variables and deployed the bot, you may need to repeat this step and re-enter all variables again, if you want to change your input. At this moment also, SAP Process Automation does not allow the deleting of a deployed automation.</i>
+<i>Note: Once you completed the variables and deployed the bot, you may need to repeat this step and re-enter all variables again, if you want to change your input. At this moment also, SAP Build Process Automation does not allow the deleting of a deployed automation.</i>
 
 ## Exercise 2.2 Run the Business Process
 
@@ -72,6 +72,6 @@ Search for the app: <B> Manage Purchase Requisition</b>
 
 ## Summary
 
-Congratulations! You have now successfully modified a Pre-built Botusing the SAP Process Automation. We have looked at a basic POC that leverages the WorkflowManagement, Decision Logic and Approval Forms to create a Business Process.
+Congratulations! You have now successfully modified a Pre-built Botusing the SAP Build Process Automation. We have looked at a basic POC that leverages the WorkflowManagement, Decision Logic and Approval Forms to create a Business Process.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
