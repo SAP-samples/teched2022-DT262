@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2022 session called DT2
 
 ## Overview
 
-In this session,you will learn how to use the SAP Build Process Automation to modify a pre-built bot i.e.,Create Purchase Requisitions from Excel (48M). 
+In this session, you will learn how to use the SAP Build Process Automation to modify a pre-built bot i.e., Create Purchase Requisitions from Excel (48M). 
 
 The pre-built bot is designed to simplify the creation of purchase requisitions. The user can give the purchase requisition details as an input to the bot by compiling them into one template excel file. The bot reads those details and creates purchase requisitions and sends the report email to the recipients. 
 
