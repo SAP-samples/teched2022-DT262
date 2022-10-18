@@ -241,7 +241,7 @@ After completing these steps you will have...
   
   <br>![](/exercises/ex1/images/ex12_41.png)
   
-  42. Give the name as <b>Notification: PR Rejected</b>.
+  42. Give the name as <b>Notification: PR Rejected</b> and choose <b>Create</b>.
   
   <br>![](/exercises/ex1/images/ex12_42.png)
   
