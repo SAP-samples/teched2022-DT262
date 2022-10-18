@@ -206,7 +206,7 @@ After completing these steps you will have...
   
  <br>![](/exercises/ex1/images/ex12_34.png)
  
- 35. Name the form as <b>Notification: PR Accepted</b> and choose Create
+ 35. Name the form as <b>Notification: PR Accepted</b> and choose <b>Create</b>
  
  <br>![](/exercises/ex1/images/ex12_35.png)
   
