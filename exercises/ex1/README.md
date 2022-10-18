@@ -153,7 +153,7 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
   
  <br>![](/exercises/ex1/images/ex12_21.png)
   
- 22. The Create Purchase Requisitions From Excel Automation will be inserted into the Process flow.
+ 22. The <B>Create Purchase Requisitions From Excel(48M)</b> Automation prebuilt bot will be inserted into the Process flow.
  
  <br>![](/exercises/ex1/images/ex12_22.png)
  
