@@ -248,7 +248,7 @@ After completing these steps you will have...
   <br>![](/exercises/ex1/images/ex12_42.png)
   
   43. Double click on the newly created form and provide the following fields:
-  - Paragraph with the following text : <i>Dear Requestor, your PR request was rejected. Please contact purchasing for more details</i>. Click submit to end the workflow
+  - Paragraph with the following text : <i>Dear Requestor, your PR request was rejected. Please contact purchasing for more details</i>. 
   - <b>PR Number</b> of type Text and Read Only
   - <b>PR Amount</b> of type Number and Read Only Save the form and Navigate back to the MyWorkflow_0XX.
   
