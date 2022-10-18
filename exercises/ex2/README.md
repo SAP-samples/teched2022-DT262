@@ -40,7 +40,7 @@ After completing these steps you will have...
 
 <br>![](/exercises/ex2/images/22_1.png)
 
-2.	Click on the <b>Copy</B> icon in the <b> Form Link<b> field on the right side of the screen.
+2.	Click on the <b>Copy</B> icon in the <b> Form Link</b> field on the right side of the screen.
 
 <br>![](/exercises/ex2/images/22_2.png)
 
