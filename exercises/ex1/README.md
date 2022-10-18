@@ -16,7 +16,7 @@ After completing these steps you will have created...
 
 <br>![](/exercises/ex1/images/ex1_1.png)
 
-2. Filter by Project Type <b>Business Process</b> in the checkbox on left menu and search for keyword <b>Purchase Requisition</b>
+2. Choose Filter by Project Type <b>Business Process</b> in the checkbox on left menu and search for keyword <b>Purchase Requisition</b>
 
 <br>![](/exercises/ex1/images/ex1_2.png)
 
