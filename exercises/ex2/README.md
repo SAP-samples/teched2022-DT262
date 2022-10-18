@@ -44,7 +44,7 @@ After completing these steps you will have...
 
 <br>![](/exercises/ex2/images/22_2.png)
 
-3. Open the form in the browser and fill in the following information with as a Requester with Amount higher than 100.To see the next Manager’s Approval form on the next step. Click <b>Submit</b>.
+3. Open the form link in the new browser and fill in the following information with Requester with Amount higher than 100.To see the next Manager’s Approval form on the next step, click <b>Submit</b>.
 
 <br>![](/exercises/ex2/images/22_3.png)
 
