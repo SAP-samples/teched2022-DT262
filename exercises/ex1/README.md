@@ -1,6 +1,6 @@
 # Exercise 1 - Extend SAP S/4HANA Cloud Pre-Delivered Bot uisng SAP Build Process Automation
 
-Creating purchase requisitions manually is not just time taking, but also a tedious and monotonous task. The Create Purchase Requisitions from Excel (48M) simplifies the creation of purchase requisitions. Customers can give the purchase requisition details as an input to the bot by compiling them into one template excel file. The automation reads those details and creates purchase requisitions and sends the report email to the recipients.
+Creating purchase requisitions(PR) manually is not just time taking, but also a tedious and monotonous task. The Create Purchase Requisitions from Excel (48M) simplifies the creation of purchase requisitions. Customers can give the purchase requisition details as an input to the bot by compiling them into one template excel file. The automation reads those details and creates purchase requisitions and sends the report email to the recipients.
 
 During this exercise, the following extensions will be made to the  pre-delivered content:
 - An input form for the User to enter PR Number, PR Amount, Requester Number and Requisition Date.
@@ -10,7 +10,7 @@ During this exercise, the following extensions will be made to the  pre-delivere
 
 ## Exercise 1.1 Acquire the Pre-built Bot Template Project From the Store
 
-After completing these steps you will have aquire the SAP S/4HANA Cloud Out-of-box prebuilt template for Purchase Requisition creation from SAP Bot Store and extend the scenario to include the approval process via the Workflow.
+After completing these steps you will have aquire the SAP S/4HANA Cloud Out-of-box prebuilt template for Purchase Requisition(PR) creation from SAP Bot Store and extend the scenario to include the approval process via the Workflow.
 
 1. Login to the SAP Build Process Automation Tenant using below url and Navigate to <b>Store</b>
 
