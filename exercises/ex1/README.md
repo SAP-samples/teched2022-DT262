@@ -71,13 +71,13 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
 <br>![](/exercises/ex1/images/ex12_3.png)
   
 4. In the pop-up, do the following:
-  - Enter the Namefield. E.g. “MyWorkflow_XXX” (Sample MyWorkflow_011 for group 11)
-  - Enter a description(optional)
-  - Choose Create
+  - Enter the Name field. E.g. <b> MyWorkflow_XXX <b>(Sample MyWorkflow_011 for group 11)
+  - Enter a description(optional) - <b>Myworkflow_0XX</b>
+  - Choose <b>Create </b>
   
 <br>![](/exercises/ex1/images/ex12_4.png)
   
-5. Click <b>+</b> button to Start a Trigger
+5. Click <b>+</b> button to start a Trigger
 
 <br>![](/exercises/ex1/images/ex12_5.png)
   
@@ -85,14 +85,14 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
 
 <br>![](/exercises/ex1/images/ex12_6.png)
   
-7. In the Create Form pop-up window, do the following
-  - Enter the Name as <b>InputForm:PR_Details</b>
+7. In the Create Form pop-up window, do the following:
+  - Enter the Name as <b>InputForm: PR_Details</b>
   - Enter a Description(optional)
   - Click <b>Create</b>
   
  <br>![](/exercises/ex1/images/ex12_7.png)
   
- 8. Click on the <b>InputForm:PR_Details</b> and next select <b> Open Editor</b> option.
+ 8. Click on the <b>InputForm: PR_Details</b> and next select <b> Open Editor</b> option.
  
  <br>![](/exercises/ex1/images/ex12_8.png)
   
@@ -109,7 +109,7 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  
  <br>![](/exercises/ex1/images/ex12_11.png)
   
- 12. Similarly create the input fields <b>PR Amount (Number)</b>, <b>Requester Name(Text)</b> and <b>Requisition date (Date)</b>. Mark all the fields as <b>Required</b>.
+ 12. Similarly create the input fields <b>PR Amount (Number)</b>, <b>Requester Name(Text)</b> and <b>Requisition Date (Date)</b>. Mark all the fields as <b>Required</b>.
  
  <br>![](/exercises/ex1/images/ex12_12.png)
   
@@ -117,11 +117,11 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  
  <br>![](/exercises/ex1/images/ex12_13.png)
   
- 14. Return to the <b>MyWorkflow_XXX</b> tab.
+ 14. Return to the <b>MyWorkflow_0XX</b> tab.
  
  <br>![](/exercises/ex1/images/ex12_14.png)
   
- 15. Click <b>+</b>icon next to Input Form and select <b>Controls -> Condition</b>
+ 15. Click <b>+</b> icon next to Input Form and select <b>Controls -> Condition</b>
  
  <br>![](/exercises/ex1/images/ex12_15.png)
   
@@ -129,10 +129,10 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  
  <br>![](/exercises/ex1/images/ex12_16.png)
   
- 17. In the Branch condition you will need to provide the item to be compared, the operator and value to be compared. Click on Each text box to select the following value:
-  - Select Item:PR Amount
-  - Operator:is less than or equal
-  - Value:100
+ 17. In the Branch condition you will need to provide the item, the operator and value to be compared. Click on each text box to select the following value:
+  - Select Item: <b>PR Amount<b/b>
+  - Operator:<b>is less than or equal</b>
+  - Value:<b>100</b>
   
  <br>![](/exercises/ex1/images/ex12_17.png)
   
@@ -144,7 +144,7 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  
  <br>![](/exercises/ex1/images/ex12_19.png)
   
- 20. The Condition has two branches <b>If</b> (when condition is true) and <b>Default</b>(when condition is false). 
+ 20. The Condition has two branches <b>If</b> (when condition is true) and <b>Default</b> (when condition is false). 
   
  <br>![](/exercises/ex1/images/ex12_20.png)
   
