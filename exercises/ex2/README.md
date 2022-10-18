@@ -7,22 +7,25 @@ In this exercise, we will release and deploy the automation package to execute t
 After completing these steps you will have created...
 
 1. In the Process Builder, click on <b>Release</b>
+
 <br>![](/exercises/ex2/images/21_1.png)
 
 2.	For the first version, add a <b>Version</b> Comment and click on <b>Release</b>
 
 <br>![](/exercises/ex2/images/21_2.png)
 
-3. The project Released successfully is ready to be deployed.Next, click on <B> Deploy</b>
+3. The project that was released successfully is now ready to be deployed.Click on <B> Deploy</b>
 
 <br>![](/exercises/ex2/images/21_4.png)
 
-4. Fill the Variables and click on Confirm and then Deploy button
-- SYSTEMURL_ODATA: ODATA URL of S4 system. For this workshop use value "https://my401669-api.s4hana.cloud.sap/sap/opu/odata/sap”
-- BASE_FOLDER_PATH_48M:local folder path, where the file containing Purchase Requisitionsis stored. The sample input file for this workshop can be downloaded from here 
-- EMAIL_RECIPIENTS_48M:Email recipient. <b>Use your own e-mail address to receive bot execution notifications</b>
-- S4H_USER_AUTH_48M: <b>As displayed on the Instructors screen</b>
-- SAP_CLIENT: <b>leave blank</b>
+4. Fill the Variables and click on <b>Confirm</b> and then <b>Deploy</b> button
+- <b>SYSTEMURL_ODATA</b>: ODATA URL of The SAP S/4HANA Cloud system. Value - <b>https://my401669-api.s4hana.cloud.sap/sap/opu/odata/sap<B>
+- <b>S4H_USER_AUTH_48M</b>: 
+   - <b>User</b> - DT262_USER  
+   - <b>Password</b> - As provided by the speaker
+- <b>BASE_FOLDER_PATH_48M</b>:local folder path, where the file containing Purchase Requisitions stored. The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> Material folder and placed in the local forlder on <b>Desktop</b>
+- <b>EMAIL_RECIPIENTS_48M</b>:Email recipient. <b>Use your personal e-mail address to receive bot execution notifications</b>
+- <b>SAP_CLIENT</b>: leave blank
 
 <br>![](/exercises/ex2/images/21_5.png)
 
