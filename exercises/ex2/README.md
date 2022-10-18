@@ -74,6 +74,6 @@ After completing these steps you will have...
 
 ## Summary
 
-Congratulations! You have now successfully modified a Pre-built Botusing the SAP Build Process Automation. We have looked at a basic POC that leverages the WorkflowManagement, Decision Logic and Approval Forms to create a Business Process.
+Congratulations! You have now successfully modified a Pre-built Bot using the SAP Build Process Automation. We have looked at a basic scenario that leverages the Workflow Management, Decision Logic and Approval Forms to create a Business Process.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
