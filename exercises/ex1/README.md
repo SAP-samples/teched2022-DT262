@@ -219,7 +219,7 @@ After completing these steps you will have...
   - <b>PR Number</b>: Read only Text field
   - <b>PR Amount</b>: Read only Number field
   - <b>Requestor Name</b>: Read Only Text Field
-  <b>Save</b> the form and Navigate back to the Process flow.
+  <b>Save</b> the form and Navigate back to the MyWorkflow_0XX.
   
   <br>![](/exercises/ex1/images/ex12_37.png)
   
