@@ -71,7 +71,7 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
 <br>![](/exercises/ex1/images/ex12_3.png)
   
 4. In the pop-up, do the following:
-  - Enter the Name field. E.g. <b> MyWorkflow_XXX <b>(Sample MyWorkflow_011 for group 11)
+  - Enter the Name field. E.g. <b> MyWorkflow_XXX </b>(Sample MyWorkflow_011 for group 11)
   - Enter a description(optional) - <b>Myworkflow_0XX</b>
   - Choose <b>Create </b>
   
