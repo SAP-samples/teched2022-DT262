@@ -252,7 +252,7 @@ After completing these steps you will have...
   
   <br>![](/exercises/ex1/images/ex12_43.png)
   
-  44. Select the General tab from the right menu and set the subject as <b>PR Number(form input)</b> followed by<b> Rejected</b>. In <b>User</b> field  select <b>Process Started By</b>
+  44. Click on the Notification: PR Rejected form and select the General tab from the right menu and set the subject as <b>PR Number(form input)</b> followed by<b> Rejected</b>. In <b>User</b> field  select <b>Process Started By</b>
   
   <br>![](/exercises/ex1/images/ex12_44.png)
   
