@@ -24,7 +24,7 @@ After completing these steps you will have created...
    - <b>User</b> - DT262_USER  
    - <b>Password</b> - As provided by the speaker
 - <b>BASE_FOLDER_PATH_48M</b>: Local folder path, where the file containing Purchase Requisitions stored. 
-<n><i>The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> material folder and placed in the local folder on <b>Desktop</b></i></n>
+<br><i>The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> material folder and placed in the local folder on <b>Desktop</b></i></br>
 - <b>EMAIL_RECIPIENTS_48M</b>:Email recipient. Use your personal e-mail address to receive bot execution notifications
 - <b>SAP_CLIENT</b>: leave blank
 
