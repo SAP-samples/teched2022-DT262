@@ -189,23 +189,23 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  
  <br>![](/exercises/ex1/images/ex12_29.png)
   
- 30. Navigate Back to MyWorkflow_0XX and Click on <b>Approval:Manager Approval</b> Form. From the Right Menu select<b> General</b> Tab
+ 30. Navigate Back to <B>MyWorkflow_0XX</b> and click on <b>Approval: Manager Approval</b> Form. From the right menu select<b> General</b> Tab
  
   <br>![](/exercises/ex1/images/ex12_30.png)
   
- 31. In the Subject field provide <b>PR_Number </b>value as given in the Snapshot.  
+ 31. In the <b>Subject</b> field provide <b>PR_Number </b>value as given in the snapshot.  
  
  <br>![](/exercises/ex1/images/ex12_31.png)
   
- 32. Similarly for User field  select <b>Process Started By</b>
+ 32. Similarly for <b>User field</b> select <b>Process Started By</b>
  
 <br>![](/exercises/ex1/images/ex12_32.png)
   
- 33. Click on the Inputs tab from the Inputs. Select <b>PR Amount, PR Number </b>and <b>Requestor Name</b> as input from the form. Click <b> Save</b>
+ 33. Click on the <b>Inputs>/b> tab from the Inputs. Select <b>PR Amount, PR Number </b>and <b>Requestor Name</b> as input from the form. Click <b> Save</b>
  
   <br>![](/exercises/ex1/images/ex12_33.png)
   
- 34. To generate an approval notification,click on the <b>+</b>icon on the Approve branch. From the menu choose Forms -><b>+New Form </b> to create a new form. 
+ 34. To generate an approval notification, click on the <b>+</b> icon on the Approve branch. From the menu choose Forms -><b>+New Form </b> to create a new form. 
   
  <br>![](/exercises/ex1/images/ex12_34.png)
  
@@ -213,16 +213,16 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  
  <br>![](/exercises/ex1/images/ex12_35.png)
   
- 36. <b>Notification: PR Accepted</b> form is inserted into the canvas. <b>Double click</b> on the to see the design console.
+ 36. <b>Notification: PR Accepted</b> form is inserted into the canvas. Double click on the to see the design console.
   
   <br>![](/exercises/ex1/images/ex12_36.png)
   
  37. Design the form with the following fields:
-  - Paragraph with Value <b>Dear requestor, your PR was accepted.</b>
+  - Paragraph with value <b>Dear requestor, your PR was accepted.</b>
   - <b>PR Number</b>: Read only Text field
   - <b>PR Amount</b>: Read only Number field
   - <b>Requestor Name</b>: Read Only Text Field
-  <b>Save</b> the form and Navigate back to the MyWorkflow_0XX.
+  <b>Save</b> the form and navigate back to the <B>MyWorkflow_0XX</b>.
   
   <br>![](/exercises/ex1/images/ex12_37.png)
   
@@ -230,17 +230,17 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
   
   <br>![](/exercises/ex1/images/ex12_38.png)
   
-  39. In the General tab from the left menu and provide the following inputs:
-  - Subject: <b>PR Number</b> followed by <bApproved</b>
+  39. In the <B>General</B> tab from the left menu and provide the following inputs:
+  - Subject: <b>PR Number</b> followed by <b> Approved</b>
   - Users: <b>Process Started By</b>
   
   <br>![](/exercises/ex1/images/ex12_39.png)
   
-  40. Select Inputs tab from the right menu and select the Inputs as given in snapshot.
+  40. Select <B>Inputs</B> tab from the right menu and select the Inputs as given in snapshot.
   
   <br>![](/exercises/ex1/images/ex12_40.png)
   
-  41. Click on the <b>Reject</b> branch of the <b>Approval: Manager</b> Approval Form. Click on the <b>+</b>icon on the Reject branch. From the menu choose <b>Forms -> +New Form</b> to create a new form.
+  41. Click on the <b>Reject</b> branch of the <b>Approval: Manager</b> Approval Form. Click on the <b>+</b> icon on the Reject branch. From the menu choose <b>Forms -> +New Form</b> to create a new form.
   
   <br>![](/exercises/ex1/images/ex12_41.png)
   
@@ -249,39 +249,39 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
   <br>![](/exercises/ex1/images/ex12_42.png)
   
   43. Double click on the newly created form and provide the following fields:
-  - Paragraph with the following text : <i>Dear Requestor, your PR request was rejected. Please contact purchasing for more details</i>. 
+  - <b>Paragraph</b> with the following text : <i>Dear Requestor, your PR request was rejected. Please contact purchasing for more details</i>. 
   - <b>PR Number</b> of type Text and Read Only
   - <b>PR Amount</b> of type Number and Read Only Save the form and Navigate back to the MyWorkflow_0XX.
   
   <br>![](/exercises/ex1/images/ex12_43.png)
   
-  44. Click on the Notification: PR Rejected form and select the General tab from the right menu and set the subject as <b>PR Number(form input)</b> followed by<b> Rejected</b>. In <b>User</b> field  select <b>Process Started By</b>
+  44. <b>Click on the Notification: PR Rejected</b> form and select the General tab from the right menu and set the subject as <b>PR Number(form input)</b> followed by<b> Rejected</b>. In <b>User</b> field  select <b>Process Started By</b>
   
   <br>![](/exercises/ex1/images/ex12_44.png)
   
-  45. Click on the <b>+</b>icon on the Submit branch of the <b>Notification: PR_AcceptedForm </b>and from the menu choose <b>Automation->Create Purchase Requisition From Excel</b>
+  45. Click on the <b>+</b> icon on the Submit branch of the <b>Notification: PR_AcceptedForm </b>and from the menu choose <b>Automation->Create Purchase Requisition From Excel(48M)</b>
   
   <br>![](/exercises/ex1/images/ex12_45.png)
   
-  46.The Automation is added to the Process.
+  46.The <B>Create Purchase Requisitions From Excel(48M)</b> Automation is added to the Process.
   
   <br>![](/exercises/ex1/images/ex12_46.png)
   
-  47. Click on the <b>+</b>icon on the Success branch and from the menu select <b>Controls-> End</b>
+  47. Click on the <b>+</b> icon on the <b>Success</b> branch and from the menu select <b>Controls-> End</b>
   
   <br>![](/exercises/ex1/images/ex12_47.png)
   
-  48. Similarly click the <b>+</b> icon on the Submit branch ofthe <b>Notification:PR Rejected </b>Form and select <b>Controls->End</b>
+  48. Similarly click the <b>+</b> icon on the Submit branch ofthe <b>Notification: PR Rejected </b>Form and select <b>Controls->End</b>
   
   <br>![](/exercises/ex1/images/ex12_48.png)
   
-  49.When complete,the Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
+  49.When complete,nthe Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
 
  <br>![](/exercises/ex1/images/ex12_49.png)
 
 ## Summary
 
-You have now acquired the SAP S/4HANA Cloud Pre-built content from the bot store and extended the Pre-Delivered Bot uisng SAP Build Process Automation to include workflow feature.
+You have now acquired the SAP S/4HANA Cloud Pre-built content from the SAP Bot Store and extended the Pre-built Bot uisng SAP Build Process Automation to include workflow feature.
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
