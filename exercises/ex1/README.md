@@ -77,7 +77,7 @@ After completing these steps you will have...
   
 <br>![](/exercises/ex1/images/ex12_4.png)
   
-5. Click <b>+</b>to Start a Trigger
+5. Click <b>+</b> button to Start a Trigger
 
 <br>![](/exercises/ex1/images/ex12_5.png)
   
