@@ -1,6 +1,6 @@
-<b>Access to SAP Process Automation</b>
+<b>Access to SAP Build Process Automation</b>
 
-In this exercise, you will access the SAP Process Automation Cloud Tenant and Regiter Desktop Agent to the Cloud Tenant.
+In this exercise, you will access the SAP Build Process Automation Cloud Tenant and Regiter Desktop Agent to the Cloud Tenant.
 
 ## Level 2 Heading
 
@@ -8,7 +8,7 @@ In this exercise, you will access the SAP Process Automation Cloud Tenant and Re
 
 <br>![](/exercises/ex0/images/0_1.png)
 
-2. Go to the SAP Process Automation tenant via the url and with the login and password provided to you by the speaker:
+2. Go to the SAP Build Process Automation tenant via the url and with the login and password provided to you by the speaker:
 
 https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com/lobby
 <br>![](/exercises/ex0/images/0_2.png)
@@ -46,7 +46,7 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 <br>![](/exercises/ex0/images/0_10.png)
 11. You will be prompted to add a name and domain.
 - Input the following as Name - <b>DT262</b>
-- For Domain, <b>input the tenant URL that you copied previously from the SAP Process Automation tenant</b>
+- For Domain, <b>input the tenant URL that you copied previously from the SAP Build Process Automation tenant</b>
 - Click <b>Save</b>.
 
 <br>![](/exercises/ex0/images/0_11.png)
@@ -58,7 +58,7 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 
 
 Note: Your Desktop Agent on the system tray may restart a couple of times. Once completed, the RPA Desktop Agent will then be connected
-to the SAP Process Automation tenant that you have access to
+to the SAP Build Process Automation tenant that you have access to
 
 13. On the next screen, insert when prompted the credentials provided to you in the email. (Example only) user: DT262_0XX( example for group 11, DT262_011) Password: <B>As provided by the speaker</b>, Next, Click <b>Okay</b> when prompted
 
@@ -82,7 +82,7 @@ to the SAP Process Automation tenant that you have access to
 
 <br>![](/exercises/ex0/images/0_17.png)
   
-18. As this SAP Process Automation exercise will use other elements (such as forms to trigger a process instead of a user manually starting an RPA bot from the system tray in attended mode), we will leave this agent as unattended. Go back to the SAP Process Automation tenant via the url provided to you.From “Lobby”, navigate back to “Settings” then to “Agents > agent list”.
+18. As this SAP Build Process Automation exercise will use other elements (such as forms to trigger a process instead of a user manually starting an RPA bot from the system tray in attended mode), we will leave this agent as unattended. Go back to the SAP Build Process Automation tenant via the url provided to you.From “Lobby”, navigate back to “Settings” then to “Agents > agent list”.
 
 <br>![](/exercises/ex0/images/0_18.png)
 
@@ -116,9 +116,9 @@ and described by: your Machine name (your laptop)
 
 <br>![](/exercises/ex0/images/0_25.png)
 
-26. Make sure the mode is as “unattended”. From here, your agent is now registered and ready to receive the workloads which we will now build using SAP Process Automation in the next phase.
+26. Make sure the mode is as “unattended”. From here, your agent is now registered and ready to receive the workloads which we will now build using SAP Build Process Automation in the next phase.
 
 ## Summary
 
-Now that you have completed the initial setting for the SAP Process Automation system and agent set up. Next step will be to extract the pre-built templates and create workflow.
+Now that you have completed the initial setting for the SAP Build Process Automation system and agent set up. Next step will be to extract the pre-built templates and create workflow.
 Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
