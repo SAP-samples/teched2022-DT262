@@ -83,7 +83,7 @@ After completing these steps you will have...
 
 <br>![](/exercises/ex1/images/ex12_6.png)
   
-7. In the Create Form pop-up dialoge, do the following
+7. In the Create Form pop-up window, do the following
   - Enter the Name as <b>InputForm:PR_Details</b>
   - Enter a Description(optional)
   - Click <b>Create</b>
