@@ -130,7 +130,7 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
  <br>![](/exercises/ex1/images/ex12_16.png)
   
  17. In the Branch condition you will need to provide the item, the operator and value to be compared. Click on each text box to select the following value:
-  - Select Item: <b>PR Amount<b/b>
+  - Select Item: <b>PR Amount</b>
   - Operator:<b>is less than or equal</b>
   - Value:<b>100</b>
   
