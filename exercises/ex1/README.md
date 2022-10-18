@@ -56,7 +56,7 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 
 ## Exercise 1.2 Create Business Process
 
-After completing these steps you will have...
+After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction from the SAP Bot Store, we will now define the approval process for this bot by including the workflow technology.
 
 1.	When you open a project, you are taken to the project Overview tab.The list of all artifacts is displayed.
 
