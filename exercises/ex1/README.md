@@ -186,7 +186,7 @@ After completing these steps you will have...
  
  <br>![](/exercises/ex1/images/ex12_29.png)
   
- 30. Navigate Back to the Process and Click on <b>Approval:Manager Approval</b> Form. From the Right Menu select<b> General</b> Tab
+ 30. Navigate Back to MyWorkflow_0XX and Click on <b>Approval:Manager Approval</b> Form. From the Right Menu select<b> General</b> Tab
  
   <br>![](/exercises/ex1/images/ex12_30.png)
   
