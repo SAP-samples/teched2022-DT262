@@ -119,4 +119,4 @@ and described by: your Machine name (your laptop)
 ## Summary
 
 Now that you have completed the initial setting for the SAP Build Process Automation system and agent set up. Next step will be to extract the pre-built templates and create workflow.
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Continue to - [Extend SAP S/4HANA Cloud Pre-Delivered Bot uisng SAP Build Process Automation](../ex1/README.md)
