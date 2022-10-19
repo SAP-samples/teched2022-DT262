@@ -18,7 +18,7 @@ During this exercise, the following extensions will be made to the  pre-delivere
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+<!---Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.--->
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Extend SAP S/4HANA Cloud Pre-Delivered Bot uisng SAP Build Process Automation](exercises/ex1/)
