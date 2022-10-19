@@ -16,10 +16,6 @@ During this exercise, the following extensions will be made to the  pre-delivere
 - Notification Form for the User to show if the PR is accepted or rejected.
 - Workflow to Bootstrap the process, where user first submits the form and based on PR Amount the PR is sent forApproval to Manager. Only after Manager’s approval or PR with Low amount the Purchase Requisition is created using the pre-built bot.
 
-## Requirements
-
-The requirements to follow the exercises in this repository are...
-
 ## Exercises
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
