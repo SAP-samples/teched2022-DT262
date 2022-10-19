@@ -1,4 +1,4 @@
-## Pre-requisite and Access to SAP Build Process Automation
+## Getting Started - Pre-requisite and Access to SAP Build Process Automation
 
 In this exercise, you will access the SAP Build Process Automation Cloud Tenant and Regiter Desktop Agent to the Cloud Tenant.
 
