@@ -2,7 +2,7 @@
 
 In this exercise, you will access the SAP Build Process Automation Cloud Tenant and Regiter Desktop Agent to the Cloud Tenant.
 
-1.The SAP Build Process Automation Agent should have now been installed onto your system. You can view it on your system tray here with the icon.
+1. The SAP Build Process Automation Agent should have now been installed onto your system. You can view it on your system tray here with the icon.
 
 <br>![](/exercises/ex0/images/0_1.png)
 
@@ -19,7 +19,7 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 
 <br>![](/exercises/ex0/images/0_4.png)
 
-5.Select “Agents > Agents List”
+5. Select “Agents > Agents List”
 
 <br>![](/exercises/ex0/images/0_5.png)
 
@@ -48,7 +48,7 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 - Click <b>Save</b>.
 
 <br>![](/exercises/ex0/images/0_11.png)
-12. Select your newly created Tenant, per above. E.g. ‘DT262’. Click <B>Activate</b>. You might get a message <b> Are you sure you want to switch to tenant DT262.
+12. Select your newly created Tenant, per above. E.g. ‘DT262’. Click <B>Activate</b>. You might get a message <b> Are you sure you want to switch to tenant DT262</b>.
 
 <br>![](/exercises/ex0/images/0_12.png)
 
@@ -56,8 +56,8 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 
 
 Note: Your Desktop Agent on the system tray may restart a couple of times. Once completed, the RPA Desktop Agent will then be connected
-to the SAP Build Process Automation tenant that you have access to
-
+to the SAP Build Process Automation tenant that you have access to.
+<br>
 13. On the next screen, insert when prompted the credentials provided to you in the email. (Example only) user: DT262_0XX( example for group 11, DT262_011) Password: <B>As provided by the speaker</b>, Next, Click <b>Okay</b> when prompted
 
 <br>![](/exercises/ex0/images/0_13.png)
