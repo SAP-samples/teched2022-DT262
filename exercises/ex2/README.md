@@ -1,4 +1,4 @@
-# Exercise 2 - Release, Deploy and Execute the Scenario
+# Exercise 2 - Release, Deploy and Execute the Business Scenario
 
 In this exercise, we will release and deploy the automation package to execute the scenario in SAP Build Process Automation Solution.
 
@@ -32,7 +32,7 @@ After completing these steps you will have created...
 
 <i>Note: Once you completed the variables and deployed the bot, you may need to repeat this step and re-enter all variables again, if you want to change your input. At this moment also, SAP Build Process Automation does not allow the deleting of a deployed automation.</i>
 
-## Exercise 2.2 Run the Business Process
+## Exercise 2.2 Exceute the Business Process
 
 After completing these steps you will have...
 
