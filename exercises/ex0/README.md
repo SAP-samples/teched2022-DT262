@@ -1,8 +1,6 @@
-<b>Access to SAP Build Process Automation</b>
+## Pre-requisite and Access to SAP Build Process Automation
 
 In this exercise, you will access the SAP Build Process Automation Cloud Tenant and Regiter Desktop Agent to the Cloud Tenant.
-
-## Level 2 Heading
 
 1.The SAP Build Process Automation Agent should have now been installed onto your system. You can view it on your system tray here with the icon.
 
