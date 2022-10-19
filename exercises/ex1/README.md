@@ -283,5 +283,5 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
 
 You have now acquired the SAP S/4HANA Cloud Pre-built content from the SAP Bot Store and extended the Pre-built Bot using SAP Build Process Automation to include SAP Workflow feature.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Release, Deploy and Exceute the Scenario](../ex2/README.md)
 
