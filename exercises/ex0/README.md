@@ -9,6 +9,7 @@ In this exercise, you will access the SAP Build Process Automation Cloud Tenant 
 2. Go to the SAP Build Process Automation tenant via the url and with the login and password provided to you by the speaker:
 
  - https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com/lobby
+ 
 <br>![](/exercises/ex0/images/0_2.png)
 <br>![](/exercises/ex0/images/0_2_1.png)
 
