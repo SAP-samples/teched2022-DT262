@@ -78,7 +78,7 @@ to the SAP Build Process Automation tenant that you have access to.
 
 <br>![](/exercises/ex0/images/0_15.png)
 
-16. You should see the following screen, with two modes: <B>“Interactive (attended)” or “Background (unattended)”</b>.Select <B>“Background (unattended)</b>”.Your Desktop Agent will restart a couple of times. Next click <b> OK</b> 
+16. You should see the following screen, with two modes: <B>“Interactive (attended)” or “Background (unattended)”</b>. Select <B>“Background (unattended)</b>”. Your Desktop Agent will restart a couple of times. Next click <b> OK</b> 
 
 <br>![](/exercises/ex0/images/0_16.png)
 
