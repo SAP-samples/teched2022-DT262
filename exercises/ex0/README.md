@@ -29,7 +29,7 @@ In this exercise, you will access the SAP Build Process Automation Cloud Factory
 
 <br>![](/exercises/ex0/images/0_6.png)
 
-7. A URL will be seen in the field.Copy the link.
+7. A url will be seen in the field. Copy the link.
 
 <B>SAP RPA Agent: Registering your tenant on the agent</b>
 
