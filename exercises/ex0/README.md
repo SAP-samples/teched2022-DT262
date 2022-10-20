@@ -1,12 +1,12 @@
 ## Getting Started - Pre-requisite and Access to SAP Build Process Automation
 
-In this exercise, you will access the SAP Build Process Automation Cloud Tenant and Register Desktop Agent to the Cloud Factory Tenant.
+In this exercise, you will access the SAP Build Process Automation Cloud Factory tenant and Register Desktop Agent to the Cloud Factory tenant.
 
 1. The SAP Build Process Automation Desktop Agent should have now been installed onto your system. You can view it on your system tray here with the icon.
 
  <br>![](/exercises/ex0/images/0_1.png)
 
-2. Go to the SAP Build Process Automation tenant via the url and with the login and password provided to you by the speaker:
+2. Go to the SAP Build Process Automation Cloud Factory tenant via the url and with the login and password provided to you by the speaker:
 
  - https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com/lobby
  
