@@ -86,7 +86,7 @@ to the SAP Build Process Automation tenant that you have access to.
 
 <br>![](/exercises/ex0/images/0_17.png)
   
-18. As this SAP Build Process Automation exercise will use other elements (such as forms to trigger a process instead of a user manually starting an RPA bot from the system tray in attended mode), we will leave this agent as unattended. Go back to the SAP Build Process Automation tenant via the url provided to you.From “Lobby”, navigate back to “Settings” then to “Agents > agent list”.
+18. As this SAP Build Process Automation exercise will use other elements (such as forms to trigger a process instead of a user manually starting a RPA bot from the system tray in attended mode), we will leave this agent as unattended mode. Go back to the SAP Build Process Automation tenant via the url provided to you. From “Lobby”, navigate back to “Settings” then to “Agents > agent list”.
 
 <br>![](/exercises/ex0/images/0_18.png)
 
