@@ -115,7 +115,7 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <br>![](/exercises/ex0/images/0_23.png)
 
-24. Now go back to the <b> Agent List</b>, Go to your agent  and on the left under <B>Actions</b>, and select the <B>three dots</b>. Select <B>Manage Attributes</b> with <B> Name</b> and <b>Value</b> as <b>DT262_0XX </b> ( example- for group 11 it will be DT262_011)
+24. Now go back to the <b> Agent</b> list, go to your agent and on the left under <B>Actions</b>, and select the <B>three dots</b>. Select <B>Manage Attributes</b> with <B> Name</b> and <b>Value</b> as <b>DT262_0XX </b> ( example- for group 11 it will be DT262_011)
   
 <br>![](/exercises/ex0/images/0_24.png)
 
