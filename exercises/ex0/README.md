@@ -115,9 +115,11 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <br>![](/exercises/ex0/images/0_23.png)
 
-24. Now go back to the <b> Agent</b> list, go to your agent and on the right under <B>Actions</b>, select the <B>three dots</b>. Select <B>Manage Attributes</b> with <B> Name</b> and <b>Value</b> as <b>DT262_0XX </b> ( example- for group 11 it will be DT262_011)
+24. Now go back to the <b> Agent</b> list, go to your agent and select the <B>three dots</b> under the <b>Actions</b> column. Next, choose the <B>Manage Attributes</b> with <B> Name</b> and <b>Value</b> as <b>DT262_0XX </b> ( example- for group 11 it will be DT262_011)
   
 <br>![](/exercises/ex0/images/0_24.png)
+
+<br>![](/exercises/ex0/images/0_30.png)
 
 <i>Note: This step helps ensures that the project will deploy and run on the bot agent specified to you. This may need to be repeated during the next project phase, where the same values above will need to be entered under Project Properties > Attributes.</i>
 
