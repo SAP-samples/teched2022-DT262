@@ -105,16 +105,16 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <br>![](/exercises/ex0/images/0_21.png)
 
-22. Next, click on the <b> Agent Attribute</b> on the left side of the screen under <B> Agents</b>
-
-<br>![](/exercises/ex0/images/0_22.png)
-  
 23. Next click on <b> Create Attribute</b> option and create a new <b>Predefined Attribute </b>.  Select <B>Manage Attributes</b> with <B> Name</b> and <b>Value</b> as 
 
 <b>DT262_0XX </b> ( example- for group 11 it will be DT262_011)
 
 <br>![](/exercises/ex0/images/0_23.png)
 
+22. Next, click on the <b> Agent Attribute</b> on the left side of the screen under <B> Agents</b>
+
+<br>![](/exercises/ex0/images/0_22.png)
+  
 24. Now go back to the <b> Agent List</b>, Go to your agent  and on the left under <B>Actions</b>, and select the <B>three dots</b>. Select <B>Manage Attributes</b> with <B> Name</b> and <b>Value</b> as <b>DT262_0XX </b> ( example- for group 11 it will be DT262_011)
   
 <br>![](/exercises/ex0/images/0_24.png)
