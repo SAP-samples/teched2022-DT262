@@ -114,7 +114,7 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <br>![](/exercises/ex0/images/0_23.png)
 
-24. Now in the <b> Agent</b> list section, choose your agent and select the <B>three dots</b> under the <b>Actions</b> column to select <b>Manage Attribute</b>. 
+24. Now in the <b> Agent</b> list section, choose your agent and select the <B>three dots</b> and then the <b>Manage Attributes</b> under the <b>Actions</b> column. 
   
 <br>![](/exercises/ex0/images/0_24.png)
 
