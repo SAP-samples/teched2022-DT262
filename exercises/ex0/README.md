@@ -134,11 +134,7 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <br>![](/exercises/ex0/images/0_29.png)
 
-28. You can also click on the <B>Agent</b> to see more details, such as the latest version and mode of the agent.
-
-<br>![](/exercises/ex0/images/0_25.png)
-
-29. Make sure the mode is as “unattended”. From here, your agent is now registered and ready to receive the workloads which we will now build using SAP Build Process Automation in the next phase.
+28. Make sure the mode is as “unattended”. From here, your agent is now registered and ready to receive the workloads which we will now build using SAP Build Process Automation in the next phase.
 
 ## Summary
 
