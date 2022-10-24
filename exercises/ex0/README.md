@@ -118,7 +118,7 @@ and described by: <b>your Machine name (your laptop)</b>
   
 <br>![](/exercises/ex0/images/0_24.png)
 
-25. Select the <B> Attributes</b> and <b>Value</b> based on the <b> Attribute</b> you created in the previous step i.e b>DT262_0XX </b>
+25. Select the <B> Attributes</b> and <b>Value</b> based on the <b> Attribute</b> you created in the previous step i.e <b>DT262_0XX </b>
 
 <br>![](/exercises/ex0/images/0_30.png)
 
