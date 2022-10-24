@@ -115,29 +115,31 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <br>![](/exercises/ex0/images/0_23.png)
 
-24. Now go back to the <b> Agent</b> list, go to your agent and select the <B>three dots</b> under the <b>Actions</b> column. Next, choose the <B>Manage Attributes</b> with <B> Name</b> and <b>Value</b> as <b>DT262_0XX </b> ( example- for group 11 it will be DT262_011)
+24. Now in the <b> Agent</b> list section, choose your agent and select the <B>three dots</b> under the <b>Actions</b> column to select <b>Manage Attribute</b>. 
   
 <br>![](/exercises/ex0/images/0_24.png)
+
+25. Select the <B> Name</b> and <b>Value</b> based on the attribute you created in the previous step i.e b>DT262_0XX </b>
 
 <br>![](/exercises/ex0/images/0_30.png)
 
 <i>Note: This step helps ensures that the project will deploy and run on the bot agent specified to you. This may need to be repeated during the next project phase, where the same values above will need to be entered under Project Properties > Attributes.</i>
 
-25. Next, click on <b>Agent Management</b> Tab and choose the <b>Add Agent</b> option.
+26. Next, click on <b>Agent Management</b> Tab and choose the <b>Add Agent</b> option.
 
 <br>![](/exercises/ex0/images/0_27.png)
 
-26. Select the <b> Machine Name</b> from the list and click <b> Add Agent</b>. You can get the Machine detials from agent <b> About </b> section( see second screenshot below).
+27. Select the <b> Machine Name</b> from the list and click <b> Add Agent</b>. You can get the Machine detials from agent <b> About </b> section( see second screenshot below).
 
 <br>![](/exercises/ex0/images/0_28.png)
 
 <br>![](/exercises/ex0/images/0_29.png)
 
-27. You can also click on the <B>Agent</b> to see more details, such as the latest version and mode of the agent.
+28. You can also click on the <B>Agent</b> to see more details, such as the latest version and mode of the agent.
 
 <br>![](/exercises/ex0/images/0_25.png)
 
-28. Make sure the mode is as “unattended”. From here, your agent is now registered and ready to receive the workloads which we will now build using SAP Build Process Automation in the next phase.
+29. Make sure the mode is as “unattended”. From here, your agent is now registered and ready to receive the workloads which we will now build using SAP Build Process Automation in the next phase.
 
 ## Summary
 
