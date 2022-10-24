@@ -123,11 +123,11 @@ and described by: <b>your Machine name (your laptop)</b>
 
 25. Next, click on <b>Agent Management</b> Tab and choose the <b>Add Agent</b> option.
 
-<br>![](/exercises/ex0/images/0_26.png)
+<br>![](/exercises/ex0/images/0_27.png)
 
 26. Next, click on <b>Agent Management</b> Tab and choose the <b>Add Agent</b> option.
 
-<br>![](/exercises/ex0/images/0_27.png)
+<br>![](/exercises/ex0/images/0_28.png)
 
 27. You can also click on the <B>Agent</b> to see more details, such as the latest version and mode of the agent.
 
