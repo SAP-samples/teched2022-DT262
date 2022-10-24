@@ -121,11 +121,19 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <i>Note: This step helps ensures that the project will deploy and run on the bot agent specified to you. This may need to be repeated during the next project phase, where the same values above will need to be entered under Project Properties > Attributes.</i>
 
-25. You can also click on the <B>Agent</b> to see more details, such as the latest version and mode of the agent.
+25. Next, click on <b>Agent Management</b> Tab and choose the <b>Add Agent</b> option.
+
+<br>![](/exercises/ex0/images/0_26.png)
+
+26. Next, click on <b>Agent Management</b> Tab and choose the <b>Add Agent</b> option.
+
+<br>![](/exercises/ex0/images/0_27.png)
+
+27. You can also click on the <B>Agent</b> to see more details, such as the latest version and mode of the agent.
 
 <br>![](/exercises/ex0/images/0_25.png)
 
-26. Make sure the mode is as “unattended”. From here, your agent is now registered and ready to receive the workloads which we will now build using SAP Build Process Automation in the next phase.
+28. Make sure the mode is as “unattended”. From here, your agent is now registered and ready to receive the workloads which we will now build using SAP Build Process Automation in the next phase.
 
 ## Summary
 
