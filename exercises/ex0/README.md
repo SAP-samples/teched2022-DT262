@@ -56,7 +56,8 @@ In this exercise, you will access the SAP Build Process Automation Cloud Factory
 
 12. Select your newly created Tenant, per above. E.g. ‘DT262’. Click <B>Activate</b>. You might get a message <b> Are you sure you want to switch to tenant DT262</b>.
 
-Note: The message <b>Are you sure you want to switch to tenant DT262</b> is only when there is an alternate system already configured. In case your Desktop Agent is fresh and empty you will not recieve this message. 
+ Note: The message <b>Are you sure you want to switch to tenant DT262</b> is only when there is an alternate system already configured. In case your Desktop Agent is  fresh and empty you will not recieve this message. 
+
 <br>![](/exercises/ex0/images/0_12.png)
 
 <br>![](/exercises/ex0/images/0_12_1.png)
