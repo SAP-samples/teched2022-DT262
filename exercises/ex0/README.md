@@ -61,7 +61,7 @@ In this exercise, you will access the SAP Build Process Automation Cloud Factory
 <br>![](/exercises/ex0/images/0_12_1.png)
 
 
-Note: Your Desktop Agent on the system tray may restart a couple of times. Once completed, the RPA Desktop Agent will then be connected
+Note: Your Desktop Agent on the system tray may restart a couple of times. Once completed, the Desktop Agent will then be connected
 to the SAP Build Process Automation tenant that you have access to.
 <br>
 
