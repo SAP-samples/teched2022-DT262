@@ -29,9 +29,7 @@ In this exercise, you will access the SAP Build Process Automation Cloud Factory
 
 <br>![](/exercises/ex0/images/0_6.png)
 
-7. A url will be seen in the field. Copy the link.
-
-<B>SAP RPA Agent: Registering your tenant on the agent</b>
+7. A url will be seen in the field and choose <b>Copy and Close</b> button to register this tenant to Desktop Agent.
 
 <br>![](/exercises/ex0/images/0_7.png)
 
