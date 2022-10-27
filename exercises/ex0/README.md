@@ -103,11 +103,11 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <br>![](/exercises/ex0/images/0_21.png)
 
-22. Next, click on the <b> Agent Attribute</b> on the left side of the screen under <B> Agents</b>
+22. Next, click on the <b> Agent Attribute</b> on the left side of the screen under <B> Agents</b> and choose <b>Create Attribute</b> button.
 
 <br>![](/exercises/ex0/images/0_22.png)
 
-23. Next click on <b> Create Attribute</b> option. Choose the Type <b>Predefined Attribute</b> and input <B> Name</b> and <b>Value</b> ( example- for group 11 it will be DT262_011)
+23. Choose the Type <b>Predefined Attribute</b> and input <B> Name</b> and <b>Value</b> ( example- for group 11 it will be DT262_011)
 
 <br>![](/exercises/ex0/images/0_23.png)
 
