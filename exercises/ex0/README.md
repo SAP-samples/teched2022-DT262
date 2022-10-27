@@ -21,7 +21,7 @@ In this exercise, you will access the SAP Build Process Automation Cloud Factory
 
 <br>![](/exercises/ex0/images/0_4.png)
 
-5. Select “Agents > Agents List”
+5. Select “Agents > Agents”
 
 <br>![](/exercises/ex0/images/0_5.png)
 
