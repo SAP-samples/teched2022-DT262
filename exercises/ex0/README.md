@@ -107,8 +107,7 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <br>![](/exercises/ex0/images/0_22.png)
 
-23. Next click on <b> Create Attribute</b> option and create a new <b>Predefined Attribute</b> with <B> Name</b> and <b>Value</b> as
-<b>DT262_0XX </b> ( example- for group 11 it will be DT262_011)
+23. Next click on <b> Create Attribute</b> option. Choose the Type <b>Predefined Attribute</b> and input <B> Name</b> and <b>Value</b> ( example- for group 11 it will be DT262_011)
 
 <br>![](/exercises/ex0/images/0_23.png)
 
