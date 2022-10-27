@@ -125,7 +125,7 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <br>![](/exercises/ex0/images/0_27.png)
 
-27. Select the <b> Machine Name</b> from the list and click <b> Add Agent</b>. You can get the Machine detials from agent <b> About </b> section( see second screenshot below).
+27. Select the <b>Machine Name</b> from the list and click <b>Add agent</b>. You can get the Machine detials from Desktop Agent <b>About</b> section( see second screenshot below).
 
 <br>![](/exercises/ex0/images/0_28.png)
 
