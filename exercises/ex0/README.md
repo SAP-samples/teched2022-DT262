@@ -35,7 +35,7 @@ In this exercise, you will access the SAP Build Process Automation Cloud Factory
 
 <br>![](/exercises/ex0/images/0_7.png)
 
-8. Now access the desktop agent on the taskbar and Click <b>More Actions</b>
+8. Now access the Desktop Agent on the taskbar and Click <b>More Actions</b>
 
 <br>![](/exercises/ex0/images/0_8.png)
 
