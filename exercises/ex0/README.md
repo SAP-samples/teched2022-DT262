@@ -121,7 +121,7 @@ and described by: <b>your Machine name (your laptop)</b>
 
 <i>Note: This step helps ensures that the project will deploy and run on the bot agent specified to you. This may need to be repeated during the next project phase, where the same values above will need to be entered under Project Properties > Attributes.</i>
 
-26. Next, click on <b>Agent Management</b> Tab and choose the <b>Add Agent</b> option.
+26. Next, click on <b>Agent Management</b> tab and choose the <b>Add Agent</b> option.
 
 <br>![](/exercises/ex0/images/0_27.png)
 
