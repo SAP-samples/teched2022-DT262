@@ -46,7 +46,7 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 
 <br>![](/exercises/ex1/images/ex1_8.png)
   
-9. On the next screen, click on <B>Attributes</b> and Select Attributes: <b>User</b>
+9. On the next screen, click on <B>Attributes</b> and Select Attributes: <b>DT262_0XX</b> (Sample DT262_011 for group 11)
 
 <br>![](/exercises/ex1/images/ex1_10.png)
   
