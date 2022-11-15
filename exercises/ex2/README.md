@@ -52,7 +52,7 @@ After completing these steps you will have...
 
 <br>![](/exercises/ex2/images/22_4.png)
 
-5. In your <B>Inbox</b> a <B>new Task</b>has arrived. Since you are acting as a manager, click on the<B> Approve</b> bbtton located at the bottom of the form.
+5. In your <B>Inbox</b> a <B>new Task</b>has arrived. Since you are acting as a manager, click on the<B> Approve</b> button located at the bottom of the form.
 
 <br>![](/exercises/ex2/images/22_5.png)
 
