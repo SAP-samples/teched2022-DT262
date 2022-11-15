@@ -259,27 +259,27 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
   
   <br>![](/exercises/ex1/images/ex12_44.png)
   
-  45. Click on the <b>+</b> icon on the Submit branch of the <b>Notification: PR_AcceptedForm </b>and from the menu choose <b>Automation->Create Purchase Requisition From Excel(48M)</b>
+  45. Select Inputs tab from the right menu and select the Inputs as given in snapshot.
+  
+  <br>![](/exercises/ex1/images/ex12_50.png)
+  
+  46. Click on the <b>+</b> icon on the Submit branch of the <b>Notification: PR_AcceptedForm </b>and from the menu choose <b>Automation->Create Purchase Requisition From Excel(48M)</b>
   
   <br>![](/exercises/ex1/images/ex12_45.png)
   
-  46.The <B>Create Purchase Requisitions From Excel(48M)</b> Automation is added to the Process.
+  47.The <B>Create Purchase Requisitions From Excel(48M)</b> Automation is added to the Process.
   
   <br>![](/exercises/ex1/images/ex12_46.png)
   
-  47. Click on the <b>+</b> icon on the <b>Success</b> branch and from the menu select <b>Controls-> End</b>
+  48. Click on the <b>+</b> icon on the <b>Success</b> branch and from the menu select <b>Controls-> End</b>
   
   <br>![](/exercises/ex1/images/ex12_47.png)
   
-  48. Similarly click the <b>+</b> icon on the Submit branch ofthe <b>Notification: PR Rejected </b>Form and select <b>Controls->End</b>
+  49. Similarly click the <b>+</b> icon on the Submit branch ofthe <b>Notification: PR Rejected </b>Form and select <b>Controls->End</b>
   
   <br>![](/exercises/ex1/images/ex12_48.png)
-  
-  50. Select Inputs tab from the right menu and select the Inputs as given in snapshot.
-  
-  <br>![](/exercises/ex1/images/ex12_50.png)
-   
-  49.When complete, the Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
+    
+  50.When complete, the Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
 
   <br>![](/exercises/ex1/images/ex12_49.png)
 
