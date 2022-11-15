@@ -24,7 +24,7 @@ After completing these steps you will have created...
    - <b>login</b> - DT262_USER <i>(Note: "DT262_USER" is the Username, <b>Do not</b> replace this by Group Number(_0XX))</i>
    - <b>password</b> - As provided by the speaker
 - <b>BASE_FOLDER_PATH_48M</b>: Local folder path where the input file containing the data is stored as well as the output logs are generated. 
-<br><i>The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> material folder and placed in the local folder on windows Desktop</i></br>
+<br><i>The sample input file <b>DT262 - Create Purchase Requisitions from Excel(48M).xlsx</b> for this workshop can be downloaded from the <b>DT262</b> material folder (File Path: Session Materials/DT/teched2022-DT262/exercises/) and placed in the local folder on windows Desktop</i></br>
 - <b>EMAIL_RECIPIENTS_48M</b>: Email recipient. Use your personal e-mail address to receive bot execution notifications
 - <b>SAP_CLIENT</b>: leave blank
 
