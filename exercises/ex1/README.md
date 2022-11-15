@@ -279,7 +279,7 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
   
   <br>![](/exercises/ex1/images/ex12_50.png)
    
-   49.When complete, the Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
+  49.When complete, the Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
 
   <br>![](/exercises/ex1/images/ex12_49.png)
 
