@@ -275,9 +275,13 @@ After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction fr
   
   <br>![](/exercises/ex1/images/ex12_48.png)
   
-  49.When complete, the Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
+  50. Select Inputs tab from the right menu and select the Inputs as given in snapshot.
+  
+  <br>![](/exercises/ex1/images/ex12_50.png)
+   
+   49.When complete, the Process should be looking similar to the snapshot with no errors. Click on <b>Save</b>.
 
- <br>![](/exercises/ex1/images/ex12_49.png)
+  <br>![](/exercises/ex1/images/ex12_49.png)
 
 ## Summary
 
