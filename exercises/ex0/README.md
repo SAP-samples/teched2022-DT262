@@ -6,7 +6,7 @@ In this exercise, you will access the SAP Build Process Automation Cloud Factory
 
  <br>![](/exercises/ex0/images/0_1.png)
  
- <i>Note: If you cannot the find the <b> Desktop Agent </b> in the task bar, you can start the it from the Windows search box (see second screenshot).</i>
+ <i>Note: If you cannot the find the <b> Desktop Agent </b> in the task bar, you can start it from the Windows search box.</i>
  
  <br>![](/exercises/ex0/images/0_50.png)
 
