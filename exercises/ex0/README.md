@@ -99,9 +99,11 @@ to the SAP Build Process Automation tenant that you have access to.
 <br>![](/exercises/ex0/images/0_19.png)
 
 20. If not on the list of <b>Agents</b>, you can sort by descending, the right-most column <b>Last Updated</b>. Your agent should be the latest entry if sorted by <b>last updated</b>,
-and described by: <b>your Machine name (your laptop)</b>. You can get the Machine detials from Desktop Agent About section( see second screenshot below).
+and described by: <b>your Machine name (your laptop)</b>. 
 
 <br>![](/exercises/ex0/images/0_20.png)
+
+You can also get the Machine detials from Desktop Agent <b>About</b> section( see second screenshot below).
 
 <br>![](/exercises/ex0/images/0_35.png)
 
