@@ -44,7 +44,7 @@ After completing these steps you will have...
 
 <br>![](/exercises/ex2/images/22_2.png)
 
-3. Open the form link in the new browser and fill in the following information with requester with Amount higher than 100 (example - 300 as in the Input excel). To see the next Manager’s Approval form on the next step, click <b>Submit</b>. 
+3. Open the form link in the new browser and fill in the following information with requester with Amount higher than 100 (example - 300 as in the Input excel). To see the next Manager’s Approval form on the next step, click <b>Submit</b>. Please add your User name as <b> Requestor Name</b>. example DT262_011 if your group number is 11.
 
 <br>![](/exercises/ex2/images/22_3.png)
 
