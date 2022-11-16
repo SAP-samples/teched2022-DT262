@@ -56,13 +56,21 @@ After completing these steps you will have...
 
 <br>![](/exercises/ex2/images/22_5.png)
 
-6. After the approval the <B>Create Purchase Requisitions from Excel(48M)</b> Automation will be triggered. The automation will read the inputs from the Excel File and use the system information and credentials to create a purchase requisition in the SAP S/4HANA Cloud.
+6. Next click on <B>Refresh</b> in the inbox.
 
-7. The bot will run automatically, and an output report will be sent to the email specified per the variable <b>EMAIL_RECIPIENTS_48</b> with a copy of the same stored on the error or the success folder located in your base folder (variable - <b>BASE_FOLDER_PATH_48M</b>).
+<br>![](/exercises/ex2/images/22_12.png)
+
+7. Next click on <b>submit</b> to approve the creation of purchase requisition in SAP S/4HANA Cloud system.
+
+<br>![](/exercises/ex2/images/22_14.png)
+
+8. After the approval the <B>Create Purchase Requisitions from Excel(48M)</b> Automation will be triggered. The automation will read the inputs from the Excel File and use the system information and credentials to create a purchase requisition in the SAP S/4HANA Cloud.
+
+9. The bot will run automatically, and an output report will be sent to the email specified per the variable <b>EMAIL_RECIPIENTS_48</b> with a copy of the same stored on the error or the success folder located in your base folder (variable - <b>BASE_FOLDER_PATH_48M</b>).
 
 <br>![](/exercises/ex2/images/22_7.png)
 
-8. You can also cross-check the posted data in the SAP S/4HANA Cloud system, against the data in the post-run excel that was sent to the specified recipient email.Please use the below url and login detials.
+10. You can also cross-check the posted data in the SAP S/4HANA Cloud system, against the data in the post-run excel that was sent to the specified recipient email.Please use the below url and login detials.
 
  - SAP S/4HANA System:<b>https://my401669.s4hana.cloud.sap/ui#</b>
  - Login: <b>DT262_0XX</b>
