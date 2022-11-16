@@ -54,6 +54,14 @@ https://dt262-9vbrkgdy-applicationdevelopment.lcnc.cfapps.us10.hana.ondemand.com
 
 <br>![](/exercises/ex1/images/ex1_9.png)
 
+11. Make sure the agent version is matching the <b>Desktop Agent</b> version installed in your system ( mostly marked by "Local Registered")
+
+<br>![](/exercises/ex1/images/ex1_12.png)
+
+12. Next, update the SDK version to the latest by clicking on <b>update all SDK </b> option in <b>Dependencies</b> tab.
+
+<br>![](/exercises/ex1/images/ex1_13.png)
+
 ## Exercise 1.2 Create Business Process
 
 After the <b>Create Purchase Requisitions from Excel (48M)</b> bot extraction from the SAP Bot Store, we will now define the approval process for this bot by including the workflow technology.
