@@ -103,7 +103,7 @@ and described by: <b>your Machine name (your laptop)</b>.
 
 <br>![](/exercises/ex0/images/0_20.png)
 
-You can also get the Machine detials from Desktop Agent <b>About</b> section( see second screenshot below).
+You can also get the Machine detials from Desktop Agent <b>About</b> section.
 
 <br>![](/exercises/ex0/images/0_35.png)
 
