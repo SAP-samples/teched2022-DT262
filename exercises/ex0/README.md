@@ -2,7 +2,7 @@
 
 In this exercise, you will access the SAP Build Process Automation Cloud Factory tenant and Register Desktop Agent to the Cloud Factory tenant.
 
-1. The SAP Build Process Automation Desktop Agent should have now been installed onto your system. You can view it on your system tray here with the icon.
+1. The SAP Build Process Automation Desktop Agent should have now been installed onto your system. You can view it on your system tray here with the icon. if not, type <b> Desktop Agent </b> in the search bar in your system
 
  <br>![](/exercises/ex0/images/0_1.png)
 
