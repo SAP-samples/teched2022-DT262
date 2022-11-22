@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DT262)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DT262)
+
 # DT262 - Execute Bots Rapidly in SAP S/4HANA Cloud with SAP Build Process Automation
 
 ## Description
